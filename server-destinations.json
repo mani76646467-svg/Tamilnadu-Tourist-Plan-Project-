@@ -1,0 +1,4566 @@
+[
+  {
+    "name": "Madurai",
+    "category": "Temple",
+    "district": "Madurai",
+    "wikiTitle": "Meenakshi_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "A famous temple city known for Meenakshi Amman Temple, rich culture, history and traditional food.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Meenakshi Amman Temple",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Darshan at Amman & Sundareswarar shrines and 1000-Pillar Hall",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Thirumalai Nayakkar Mahal",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Explore grand Indo-Saracenic royal palace pillars & courtyard",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Gandhi Memorial Museum & Teppakulam",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Visit historic museum & Vandiyur Mariamman temple tank",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Puthu Mandapam & Jigarthanda Trail",
+        "timeSlot": "06:30 PM – 08:30 PM",
+        "activity": "Traditional shopping and famous Madurai Jigarthanda & Kari Dosa",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Alagar Koyil & Pazhamudhircholai",
+        "timeSlot": "08:00 AM – 11:30 AM",
+        "activity": "Hilltop Vishnu & Murugan temple visit surrounded by forest",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Samanar Hills (Keelakuyilkudi)",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Ancient Jain rock beds and panoramic sunset view of Madurai",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Koodal Azhagar Perumal Temple",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Ancient Divya Desam temple with three-tiered Ashtanga Vimana architecture",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thiruparankundram Murugan Temple",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "First Arupadai Veedu rock-cut cave temple of Lord Murugan",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Vaigai Dam & Lush Lawns",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic reservoir garden walk, musical fountain & sunset views",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Keeladi Sangam Era Heritage Museum",
+        "timeSlot": "09:30 AM – 12:00 PM",
+        "activity": "World-class museum showcasing 2,600-year-old Vaigai civilization artifacts",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Ooty",
+    "category": "Hill Station",
+    "district": "Nilgiris",
+    "wikiTitle": "Ooty",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Queen of Hill Stations famous for sprawling tea estates, botanical gardens and cool mountain weather.",
+    "avgHotelPerPerson": 1200,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 900,
+    "spots": [
+      {
+        "spotName": "Government Botanical Garden",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Walk through 55-acre terraced gardens, glasshouse & fossil tree",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ooty Lake & Boathouse",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Pedal & motor boating on the scenic eucalyptus-lined lake",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Doddabetta Peak & Tea Factory",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Highest Nilgiri peak viewpoint and fresh tea & chocolate tasting",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Nilgiri Mountain Toy Train & Rose Garden",
+        "timeSlot": "09:00 AM – 12:30 PM",
+        "activity": "Heritage UNESCO toy train ride and Centenary Rose Garden",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Pykara Lake & Pykara Waterfalls",
+        "timeSlot": "02:30 PM – 06:00 PM",
+        "activity": "Pine forest walk, cascading falls and speed boat ride",
+        "entryAndLocalCost": 280
+      },
+      {
+        "spotName": "Avalanche & Emerald Lake",
+        "timeSlot": "08:30 AM – 01:00 PM",
+        "activity": "Eco-forest safari and pristine mountain valley views",
+        "entryAndLocalCost": 350
+      },
+      {
+        "spotName": "Thread Garden & Wax World Museum",
+        "timeSlot": "10:00 AM – 12:00 PM",
+        "activity": "Handcrafted artificial flower garden made purely of woven thread",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Shooting Medu (Wenlock Downs 9th Mile)",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Vast rolling green meadows, horse riding & panoramic hill photography",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Kamraj Sagar Dam & Pine Tree Trail",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Peaceful mountain lake surrounded by tall eucalyptus & pine forests",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "St. Stephen's Church & Cairn Hill Reserve",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "1829 colonial Gothic church and hanging canopy walk in cypress forest",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Rameswaram",
+    "category": "Temple",
+    "district": "Ramanathapuram",
+    "wikiTitle": "Ramanathaswamy_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Sacred island destination with Ramanathaswamy Temple corridors, Pamban Bridge and turquoise coast.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 800,
+    "spots": [
+      {
+        "spotName": "Agni Theertham & Ramanathaswamy Temple",
+        "timeSlot": "06:00 AM – 10:00 AM",
+        "activity": "Holy sea bath, 22 sacred wells snanam & world-famous corridor darshan",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Pamban Bridge & APJ Abdul Kalam Memorial",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Sea bridge viewpoint and Dr. Kalam museum at Pei Karumbu",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Dhanushkodi Beach & Arichal Munai",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Visit Ghost Town ruins and confluence of Bay of Bengal & Indian Ocean",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Gandhamadhana Parvatham & Panchmukhi Hanuman",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Island panoramic viewpoint and floating stones shrine",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ariyaman Beach & Villoondi Theertham",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Freshwater spring inside the sea and calm beach relaxation",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Kothandaramaswamy Lagoon Temple",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Historic shrine surrounded by ocean backwaters on the way to Dhanushkodi",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Lakshmana Theertham & Rama Theertham",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "Sacred stepped temple tanks and traditional stone mandapams",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Krusadai Island & Gulf of Mannar View",
+        "timeSlot": "03:15 PM – 05:45 PM",
+        "activity": "Coral reef coastal view and glass-bottom boat ride at Pamban",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Kunthukal Beach & Vivekananda Mandapam",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "Serene turquoise shoreline where Swami Vivekananda landed in 1897",
+        "entryAndLocalCost": 130
+      }
+    ]
+  },
+  {
+    "name": "Kanyakumari",
+    "category": "Beach",
+    "district": "Kanniyakumari",
+    "wikiTitle": "Vivekananda_Rock_Memorial",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "The southernmost tip of mainland India where three seas meet with iconic sunrise and sunset views.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 850,
+    "spots": [
+      {
+        "spotName": "Triveni Sangamam Sunrise & Bhagavathy Amman Temple",
+        "timeSlot": "05:45 AM – 08:30 AM",
+        "activity": "Watch sunrise over the confluence of three seas and temple visit",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vivekananda Rock Memorial & Thiruvalluvar Statue",
+        "timeSlot": "09:30 AM – 01:00 PM",
+        "activity": "Ferry ride across the sea to the rock memorial & glass bridge",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Vattakottai Seaside Fort & Sunset Point",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "18th-century coastal stone fort and golden sunset views",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Padmanabhapuram Palace & Suchindram Temple",
+        "timeSlot": "09:00 AM – 01:00 PM",
+        "activity": "Wooden heritage palace and musical pillars at Thanumalayan Temple",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Mathur Aqueduct & Thirparappu Waterfalls",
+        "timeSlot": "02:30 PM – 06:00 PM",
+        "activity": "Walk across Asia's tallest trough bridge and bathe at waterfalls",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Gandhi Memorial Mandapam & Kamarajar Mani Mandapam",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Architectural beachfront memorials overlooking the three seas",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Lemur Beach (Ganapathipuram) & Sothavilai Beach",
+        "timeSlot": "03:30 PM – 06:15 PM",
+        "activity": "Pristine shallow coastline and scenic sunset watchtower",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Chitharal Jain Rock Cut Temple (Malaikoil)",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "9th-century hilltop rock carvings with sweeping views of palm valleys",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Muttom Beach Cliffs & Lighthouse",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Dramatic red earth cliffs, rock boulders and 100-year-old lighthouse",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Mahabalipuram",
+    "category": "Heritage",
+    "district": "Chengalpattu",
+    "wikiTitle": "Shore_Temple",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "UNESCO World Heritage Pallava port town famous for rock-cut rathas, caves and the Shore Temple.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 500,
+    "spots": [
+      {
+        "spotName": "Shore Temple & Beachfront",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "8th-century structural granite temple overlooking the Bay of Bengal",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pancha Rathas (Five Rathas)",
+        "timeSlot": "10:00 AM – 12:00 PM",
+        "activity": "Monolithic rock-cut chariot temples from the Pallava era",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Krishna's Butterball & Arjuna's Penance",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Giant balancing boulder, Cave Temples & bas-relief sculptures",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Mahabalipuram Lighthouse & Sea Shell Museum",
+        "timeSlot": "05:30 PM – 07:30 PM",
+        "activity": "Top viewpoint over the coast and India Seashell Museum",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "DakshinaChitra & Crocodile Bank",
+        "timeSlot": "09:30 AM – 01:00 PM",
+        "activity": "South Indian living heritage village along East Coast Road",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Tiger Cave (Saluvankuppam)",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Rock-cut Pallava open-air pavilion carved with mythical Yali heads",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Varaha Cave & Mahishasuramardini Mandapa",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "7th-century rock-cut cave sanctuaries with exquisite wall sculptures",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sadras Dutch Fort & Alamparai Backwaters",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "17th-century brick fortress ruins and coastal photography",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Sculpture Museum & Stone Carving Street",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "Over 3,000 traditional stone, wood and metal sculptures by master artisans",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Kodaikanal",
+    "category": "Hill Station",
+    "district": "Dindigul",
+    "wikiTitle": "Kodaikanal_Lake",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Princess of Hill Stations famous for its star-shaped lake, misty cliffs, pine forests and waterfalls.",
+    "avgHotelPerPerson": 1200,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 850,
+    "spots": [
+      {
+        "spotName": "Kodaikanal Lake & Bryant Park",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Boating, lakeside cycling and botanical flower garden walk",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Coaker's Walk & Pillar Rocks",
+        "timeSlot": "12:00 PM – 03:00 PM",
+        "activity": "Panoramic valley walk and 400-ft vertical granite cliff pillars",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pine Forest, Moir Point & Guna Caves",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic woodland trail and misty mountain viewpoints",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Silver Cascade & Bear Shola Falls",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "180-ft waterfall photo stop and forest trek",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Mannavanur Lake & Poombarai Village",
+        "timeSlot": "02:00 PM – 06:00 PM",
+        "activity": "Terraced garlic farms, sheep farm and Kuzhanthai Velappar Temple",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Dolphin's Nose & Vattakanal Viewpoint",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Flat rock cliff projecting over a 6,600-ft deep mountain valley",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Kurinji Andavar Temple & Chettiar Park",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Hilltop shrine overlooking Palani plains and peaceful flower park",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Berijam Lake Forest Safari",
+        "timeSlot": "09:00 AM – 01:00 PM",
+        "activity": "Eco-forest drive through Silent Valley View, Caps Fly Valley & lake",
+        "entryAndLocalCost": 260
+      },
+      {
+        "spotName": "Fairy Falls & Kodaikanal Solar Observatory",
+        "timeSlot": "03:15 PM – 06:00 PM",
+        "activity": "Woodland waterfall stream and highest-altitude astronomy museum",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Thanjavur",
+    "category": "Heritage",
+    "district": "Thanjavur",
+    "wikiTitle": "Brihadisvara_Temple,_Thanjavur",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Heartland of the Chola Empire renowned for the UNESCO Brihadeeswarar Big Temple, bronzes and paintings.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Brihadeeswarar Temple (Big Temple)",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Marvel at Raja Raja Chola's 216-ft Vimana and giant Nandi",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thanjavur Maratha Palace & Saraswathi Mahal Library",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Durbar Hall, Chola bronze art gallery and ancient palm-leaf manuscripts",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Sivaganga Park & Schwartz Church",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Historic fort moat garden and colonial heritage church",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Tanjore Art Plate & Dancing Doll Workshop",
+        "timeSlot": "06:00 PM – 08:00 PM",
+        "activity": "Witness GI-tagged Tanjore gold-leaf painting and Bommai craft",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Thiruvaiyaru Panchanadeeswarar Temple",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Cauvery riverbank temple and Saint Thyagaraja Samadhi",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Punnainallur Mariamman & Poondi Basilica",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Famous historic shrine and peaceful riverside pilgrimage center",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Thanjai Mamani Koil (Vennar Bank)",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Cluster of three ancient Divya Desam Vishnu temples",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Manora Eight-Storey Sea Tower (Pattukkottai)",
+        "timeSlot": "03:15 PM – 06:15 PM",
+        "activity": "Hexagonal 1814 Maratha victory tower overlooking Palk Strait",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Swamimalai & Pullamangai Chola Sculptures",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Early Chola miniature stone carvings and bronze artisan village",
+        "entryAndLocalCost": 160
+      }
+    ]
+  },
+  {
+    "name": "Chennai Marina",
+    "category": "Beach",
+    "district": "Chennai",
+    "wikiTitle": "Marina_Beach",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "India's longest natural urban beach along the Bay of Bengal paired with Chennai's historic landmarks.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 500,
+    "spots": [
+      {
+        "spotName": "Marina Beach Sunrise & Lighthouse",
+        "timeSlot": "06:00 AM – 08:30 AM",
+        "activity": "Morning seaside walk, Marina Lighthouse elevator view & memorials",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kapaleeshwarar Temple & San Thome Basilica",
+        "timeSlot": "09:30 AM – 12:30 PM",
+        "activity": "Mylapore Dravidian temple architecture and historic coastal cathedral",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Government Museum Egmore & Fort St. George",
+        "timeSlot": "02:30 PM – 05:00 PM",
+        "activity": "World-famous Chola bronze gallery and 1644 heritage fort",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Elliot's Beach (Besant Nagar)",
+        "timeSlot": "05:30 PM – 08:30 PM",
+        "activity": "Karl Schmidt Memorial, Ashtalakshmi Temple & evening beach food",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Guindy National Park & Valluvar Kottam",
+        "timeSlot": "09:30 AM – 01:00 PM",
+        "activity": "Urban forest sanctuary and stone chariot monument",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Vivekananda House (Ice House) & Anna Square",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "1842 Victorian rotunda with 3D VR cultural gallery on Marina promenade",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Semmozhi Poonga Botanical Park",
+        "timeSlot": "11:15 AM – 01:15 PM",
+        "activity": "20-acre urban botanical garden with bonsai, rock & herbal gardens",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Birla Planetarium & Science Center",
+        "timeSlot": "03:15 PM – 05:45 PM",
+        "activity": "Sky theater cosmic show, 3D science exhibits & evolution park",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "MGR Film City & Chetpet Eco Park Boating",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Pedal boating, angling deck and lakeside walking track",
+        "entryAndLocalCost": 200
+      }
+    ]
+  },
+  {
+    "name": "Yercaud",
+    "category": "Hill Station",
+    "district": "Salem",
+    "wikiTitle": "Yercaud",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Jewel of the South in the Shevaroy Hills known for coffee plantations, emerald lake and hairpin bends.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Yercaud Emerald Lake & Anna Park",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Boating on the natural hill lake and Japanese park stroll",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Pagoda Point & Lady's Seat Viewpoint",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Telescope view of Salem plains and Mettur Dam panorama",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kiliyur Falls & Coffee Estate Walk",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "300-ft waterfall valley trek and spice/coffee plantation tour",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Shevaroy Temple & Karadiyur Viewpoint",
+        "timeSlot": "08:30 AM – 12:00 PM",
+        "activity": "Highest point cave temple in Yercaud and cliffside views",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Gent's Seat & Children's Seat Viewpoint",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Cliffside garden viewpoints overlooking southern Salem valley",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "National Orchidarium & Botanical Garden",
+        "timeSlot": "11:15 AM – 01:15 PM",
+        "activity": "Rare orchids, insectivorous pitcher plants and green glasshouse",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Silk Farm & Rose Garden",
+        "timeSlot": "03:00 PM – 05:00 PM",
+        "activity": "Mulberry silkworm rearing heritage tour and hillside rose beds",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Tipperary Viewpoint & White Elephant Tooth Rocks",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Southernmost cliff edge and pure white quartz meteoric rocks",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "32-km Yercaud Loop Road & Cauvery Peak Estate",
+        "timeSlot": "03:30 PM – 06:15 PM",
+        "activity": "Scenic drive through silver oak, cardamom, black pepper & coffee estates",
+        "entryAndLocalCost": 160
+      }
+    ]
+  },
+  {
+    "name": "Hogenakkal Falls",
+    "category": "Nature & Waterfalls",
+    "district": "Dharmapuri",
+    "wikiTitle": "Hogenakkal_Falls",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Known as the Niagara of India where River Cauvery drops through carbonatite rock gorges.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Main Waterfall Viewpoint & Hanging Bridge",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Watch thunderous smoking rocks cascades from the suspension bridge",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Parisal (Coracle) Gorge Ride",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Traditional round bamboo boat ride through deep Cauvery canyon",
+        "entryAndLocalCost": 400
+      },
+      {
+        "spotName": "Cine Falls & Medicinal Bathing Ghats",
+        "timeSlot": "02:30 PM – 05:00 PM",
+        "activity": "Safe bathing area and fresh riverside fried fish stalls",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Crocodile Park & Melagiri Hills View",
+        "timeSlot": "05:00 PM – 06:30 PM",
+        "activity": "Forest department rehabilitation center and evening river walk",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Aintharuvi (Five Falls View) & Watchtower",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Elevated viewing tower overlooking the wide Cauvery gorge",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Traditional Oil Massage & Herbal Snanam Ghats",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Traditional sesamum oil Champi massage and mineral river bath",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Pennagaram Children's Park & Cauvery Sand Dunes",
+        "timeSlot": "03:15 PM – 05:30 PM",
+        "activity": "Riverside sandbank walk and family eco-park",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Mettur Dam & Ellis Saddle Park",
+        "timeSlot": "09:00 AM – 12:30 PM",
+        "activity": "One of India's largest Stanley Reservoir dams and lush dam park",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Theerthamalai Hill Temple & Hanumantheertham",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Sacred natural rock spring waterfall and historic Dharmapuri temple",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Kanchipuram",
+    "category": "Temple",
+    "district": "Kanchipuram",
+    "wikiTitle": "Kailasanathar_Temple,_Kanchipuram",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "City of a Thousand Temples and capital of handwoven Kanchipuram pure mulberry silk sarees.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 500,
+    "spots": [
+      {
+        "spotName": "Kamakshi Amman & Ekambareswarar Temple",
+        "timeSlot": "07:00 AM – 10:30 AM",
+        "activity": "Pancha Bhoota Prithvi Lingam & 3,500-year-old sacred mango tree",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kailasanathar Temple",
+        "timeSlot": "10:45 AM – 12:30 PM",
+        "activity": "Oldest sandstone Pallava temple with exquisite relief carvings",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Varadaraja Perumal Temple",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "100-pillar mandapam with monolithic carved stone chains",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Silk Weaving Co-operative Societies",
+        "timeSlot": "05:45 PM – 08:00 PM",
+        "activity": "Live zari handloom weaving demonstration and Kanchi Idli tasting",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vaikunta Perumal Temple & Ugra Narasimhar Shrine",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "8th-century Pallava three-tiered sanctum with historical war panels",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kumarakottam Subramaniya Swamy Temple",
+        "timeSlot": "11:00 AM – 12:45 PM",
+        "activity": "Birthplace of Kanda Puranam located between Ekambareswarar & Kamakshi temples",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Chitragupta Swamy Temple & Kachapeshwarar Temple",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Rare shrine dedicated to Chitragupta and sacred turtle-form Vishnu temple",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kanchi Kudil Heritage House Museum",
+        "timeSlot": "09:30 AM – 11:30 AM",
+        "activity": "90-year-old ancestral home showcasing traditional Kanchipuram lifestyle & crafts",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Vedanthangal Bird Sanctuary",
+        "timeSlot": "03:30 PM – 06:15 PM",
+        "activity": "Protected wetland sanctuary with migratory pelicans, storks & herons",
+        "entryAndLocalCost": 180
+      }
+    ]
+  },
+  {
+    "name": "Chidambaram & Pichavaram",
+    "category": "Temple",
+    "district": "Cuddalore",
+    "wikiTitle": "Thillai_Nataraja_Temple,_Chidambaram",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Home to the cosmic Thillai Nataraja Temple and the world's second-largest mangrove forest.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Thillai Nataraja Temple",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Akasha Lingam, gold-plated Kanaka Sabha and Bharatanatyam karanas",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pichavaram Mangrove Forest Boating",
+        "timeSlot": "11:00 AM – 02:00 PM",
+        "activity": "Rowboat & motorboat cruise through narrow green mangrove water tunnels",
+        "entryAndLocalCost": 350
+      },
+      {
+        "spotName": "Thillai Kali Amman Temple & Annamalai University",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Ancient Chola shrine and historic campus drive",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Govindaraja Perumal Shrine & Sivakami Amman",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Unique twin sanctum inside Chidambaram temple complex & 1000-pillar Raja Sabha",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pichavaram Watchtower & Mangrove Island Sandbar",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Birdwatching across 1,100 hectares of waterways and coastal sandbar",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Vaitheeswaran Koil & Sirgazhi Sattainathar Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Navagraha Angaraka (Mars) healing temple and Tevaram birthplace",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Samiyarpettai & Silver Beach (Cuddalore)",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Quiet golden coastline and evening sea breeze relaxation",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Bhuvarahaswamy Temple, Srimushnam",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "Swayambu Varaha shrine with architectural musical stone pillars",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Parangipettai Marine Biology Museum",
+        "timeSlot": "02:30 PM – 04:30 PM",
+        "activity": "Estuary marine biodiversity center near Vellar river mouth",
+        "entryAndLocalCost": 110
+      }
+    ]
+  },
+  {
+    "name": "Tiruvannamalai",
+    "category": "Temple",
+    "district": "Tiruvannamalai",
+    "wikiTitle": "Annamalaiyar_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Spiritual hub at the base of sacred Arunachala Hill, famous for Annamalaiyar Temple and Girivalam.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Arunachaleswarar (Annamalaiyar) Temple",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Agni Lingam darshan and 217-ft Raja Gopuram architecture",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sri Ramana Ashram & Virupaksha Cave",
+        "timeSlot": "10:00 AM – 01:00 PM",
+        "activity": "Meditation hall and serene uphill trek to Skandashramam",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Arunachala Girivalam Path (Ashta Lingams)",
+        "timeSlot": "04:30 PM – 08:00 PM",
+        "activity": "14-km sacred circumambulation visiting the 8 directional Lingams",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Sathanur Dam & Gardens",
+        "timeSlot": "09:00 AM – 12:30 PM",
+        "activity": "Scenic dam across Thenpennai River, parks and crocodile farm",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Skandashramam & Pavalakundru Hill Trail",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Peaceful mountain cave ashram overlooking the giant Annamalaiyar Gopurams",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Yogi Ramsuratkumar Ashram & Seshadri Swamigal Ashram",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Serene spiritual halls along the southern Arunachala foothill road",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Adi Annamalai Temple & Kubera Lingam",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Ancient shrine on the northern side of Arunachala Hill",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Javadi Hills & Beemanmaduvu Waterfalls",
+        "timeSlot": "08:30 AM – 01:00 PM",
+        "activity": "Forest drive to Kavalur Vainu Bappu Observatory & mountain falls",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Tirukoilur Ulagalantha Perumal & Kabilar Kundru",
+        "timeSlot": "03:30 PM – 06:15 PM",
+        "activity": "Giant Trivikrama wooden deity and rock island in Thenpennai river",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Srirangam & Tiruchirappalli",
+    "category": "Temple",
+    "district": "Tiruchirappalli",
+    "wikiTitle": "Srirangam_Ranganathaswamy_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Home to the world's largest functioning Hindu temple complex at Srirangam Island and the iconic Rockfort.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Sri Ranganathaswamy Temple, Srirangam",
+        "timeSlot": "07:00 AM – 10:30 AM",
+        "activity": "21 Gopurams, 7 prakaras and tallest Raja Gopuram on Cauvery island",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Jambukeswarar Temple, Thiruvanaikaval",
+        "timeSlot": "11:00 AM – 12:45 PM",
+        "activity": "Pancha Bhoota Appu (Water) Lingam with perennial underground spring",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kallanai (Grand Anicut) Dam",
+        "timeSlot": "03:00 PM – 04:45 PM",
+        "activity": "2,000-year-old Chola stone dam built by Karikala Chola across Cauvery",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ucchi Pillaiyar Rockfort Temple",
+        "timeSlot": "05:15 PM – 07:30 PM",
+        "activity": "Climb 437 rock-cut steps for sunset panorama over Trichy & Cauvery",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Samayapuram Mariamman Temple",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "One of Tamil Nadu's most revered Shakti temples north of Trichy",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Vayalur Murugan Temple & St. Joseph's Church",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Lush green farmland shrine and historic 18th-century church near Teppakulam",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Mukkombu (Upper Anicut) Picnic Spot & Butterfly Park",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Where Kollidam branches from Cauvery & Asia's largest tropical butterfly conservatory",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Uraiyur Vekkali Amman & Azhagiya Manavala Perumal",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Early Chola capital temple with open-roof sanctum",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Puliancholai Forest Stream (Pachamalai Foothills)",
+        "timeSlot": "02:30 PM – 06:00 PM",
+        "activity": "Natural herbal mountain stream bath shaded by tamarind groves",
+        "entryAndLocalCost": 180
+      }
+    ]
+  },
+  {
+    "name": "Kumbakonam & Darasuram",
+    "category": "Temple",
+    "district": "Thanjavur",
+    "wikiTitle": "Airavatesvara_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Temple town on the Cauvery delta famed for UNESCO Airavatesvara Temple, Navagraha shrines and Degree Coffee.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Airavatesvara Temple, Darasuram",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "UNESCO Great Living Chola Temple shaped like a stone chariot with musical steps",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Adi Kumbeswarar, Sarangapani & Mahamaham Tank",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Historic temple circuit and sacred 20-theertham Mahamaham tank",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Swamimalai Murugan Temple & Bronze Casting",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Arupadai Veedu shrine and traditional lost-wax bronze idol workshops",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Suryanar Koil (Sun) & Thingalur (Moon) Navagraha Temples",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Sacred Chola-era planetary temples in the lush Cauvery delta",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Uppiliappan Temple & Thirunageswaram Rahu Temple",
+        "timeSlot": "11:00 AM – 01:15 PM",
+        "activity": "Divya Desam Perumal temple and famous milk-abhishekam shrine",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Kumbakonam Brass Vessel Street & Degree Coffee",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Shop traditional Nachiarkoil kuthuvilakku lamps & authentic brass-filter coffee",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Patteeswaram Durgai Amman & Thirubuvanam Silk",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Historic Chola royal family temple and THICO silk handloom society",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Alangudi (Guru) & Thirunallar (Sani) Temple Circuit",
+        "timeSlot": "02:30 PM – 06:00 PM",
+        "activity": "Sacred Jupiter and Saturn Navagraha pilgrimage shrines",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Chakrapani & Ramaswamy Temple Frescoes",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "Nayak-era Ramayana wall paintings and carved stone pillars",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Courtallam (Kutralam)",
+    "category": "Nature & Waterfalls",
+    "district": "Tenkasi",
+    "wikiTitle": "Courtallam",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Spa of South India in the Western Ghats boasting nine herbal-infused waterfalls and cool mountain breezes.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Peraruvi (Main Falls) & Kutralanathar Temple",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Refreshing bath under 60-meter herbal waterfall and conch-shaped temple",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Aintharuvi (Five Falls) & Eco Park",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Five parallel cascading streams and botanical eco-adventure park",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Palaruvi (Old Courtallam) & Tiger Falls",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Scenic rock-stepped waterfalls and Tenkasi Kasi Viswanathar Temple",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Chitraruvi (Small Falls) & Shenbagadevi Falls Trail",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Gentle herbal cascade surrounded by fragrant Shenbagam trees",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Gundaru Dam & Off-Road Jeep Safari",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Scenic mountain reservoir nestled inside Western Ghats cardamom hills",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Tenkasi Kasi Viswanathar Temple & Border Rahmath Parotta",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "15th-century Pandya Gopuram and famous Sengottai border culinary trail",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Thirumalai Kovil (Panpoli Hill Murugan Temple)",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Hilltop shrine surrounded by coconut groves and Western Ghats breeze",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Adavinainar Dam & Mekkarai Spice Farms",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Foothill dam viewpoint and clove/nutmeg orchard walk",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Aryankavu & Shengottai Heritage Railway Arch",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "13-arch British colonial stone viaduct across the mountain pass",
+        "entryAndLocalCost": 130
+      }
+    ]
+  },
+  {
+    "name": "Chettinad (Karaikudi)",
+    "category": "Heritage",
+    "district": "Sivaganga",
+    "wikiTitle": "Chettinad",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Land of palatial Chettiar mansions, Athangudi handmade tiles, antique markets and world-famous cuisine.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 550,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Kanadukathan Chettinad Palace & Raja's Mansion",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Tour grand mansions featuring Burmese teak pillars and Italian marble",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Athangudi Tile Factory & Chettinad Feast",
+        "timeSlot": "12:00 PM – 02:30 PM",
+        "activity": "Watch glass-surface eco tile crafting & authentic banana-leaf Chettinad lunch",
+        "entryAndLocalCost": 350
+      },
+      {
+        "spotName": "Pillayarpatti Karpaga Vinayagar & Thirumayam Fort",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "4th-century rock-cut Ganesha temple and hilltop stone fortress",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Karaikudi Antique Market (Muneeswaran Kovil Lane)",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Browse vintage Tanjore paintings, brassware, enamel tiffins & Burma teak carvings",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Chettinad Kandangi Cotton Saree Weaving Center",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "Witness GI-tagged vibrant checked handloom saree weaving in Karaikudi",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kundrakudi Shanmuganathar Hill Temple",
+        "timeSlot": "03:30 PM – 05:45 PM",
+        "activity": "Peacock-sanctuary hill temple with three rock-cut Pandya caves",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Devakottai Periya Veedu & Nagara Sivan Kovil",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Ornate Chettiar heritage street tour and sculptural clan temples",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ariyakudi Thiruvengadamudayan Temple (South Tirupati)",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Historic stone temple built by Chettiar merchant guilds",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vettangudi Bird Sanctuary",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Acacia tank sanctuary hosting thousands of Asian openbill storks & ibises",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Coonoor",
+    "category": "Hill Station",
+    "district": "Nilgiris",
+    "wikiTitle": "Coonoor",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Serene Nilgiri hill town famous for Sim's Park, Dolphin's Nose viewpoint and heritage tea estates.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 800,
+    "spots": [
+      {
+        "spotName": "Sim's Park Botanical Garden",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Natural ravine park with 1,000+ rare plant species and boating",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Dolphin's Nose & Lamb's Rock",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Dramatic cliff viewpoint overlooking Catherine Falls & tea valleys",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Highfield Tea Estate & Heritage Train to Ooty",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Orthodox Nilgiri tea tasting and scenic rack-railway ride",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Hidden Valley & Katary Waterfalls View",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Lush shola woodland trek and cascading tea-estate waterfall",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Droog Fort (Bakasura Malai) Trail",
+        "timeSlot": "11:15 AM – 02:00 PM",
+        "activity": "18th-century Tipu Sultan outpost ruin perched 6,000 ft above the plains",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Rallia Dam & Lady Canning's Seat",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Quiet forest reservoir walk and historic colonial viewpoint",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "All Saints Church & Wellington Gymkhana Golf View",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "1854 stained-glass heritage church and manicured Cantonment greens",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ketti Valley View & Runnymede Station",
+        "timeSlot": "03:15 PM – 06:00 PM",
+        "activity": "Second-largest gorge in the world and vintage steam train photo stop",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pomological Fruit Research Station",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Orchards of plums, peaches, persimmons and homemade Nilgiri jams",
+        "entryAndLocalCost": 110
+      }
+    ]
+  },
+  {
+    "name": "Valparai",
+    "category": "Hill Station",
+    "district": "Coimbatore",
+    "wikiTitle": "Valparai",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Misty Anamalai hill station reached via 40 hairpin bends through tea gardens, dams and wildlife.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 800,
+    "spots": [
+      {
+        "spotName": "Loam's Viewpoint & Aliyar Dam Drive",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Ascend 40 hairpin bends spotting Nilgiri Tahr and reservoir views",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Nallamudi Viewpoint & Balaji Temple",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Walk through Karumalai tea estates to Anamalai peak views",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Sholayar Dam & Chinna Kallar Falls",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "One of Asia's deepest reservoirs and rainforest suspension bridge",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Nirar Dam & Koolangal (Pebble) River",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Crystal-clear shallow mountain stream lined with smooth river pebbles",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Chitti Vinayagar Temple & Vellamalai Tunnel River",
+        "timeSlot": "11:15 AM – 01:15 PM",
+        "activity": "Garden shrine by Jayashree tea estate and man-made mountain water canal",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Birla Waterfalls & Number Parai Viewpoint",
+        "timeSlot": "03:15 PM – 05:45 PM",
+        "activity": "Scenic waterfall nestled amidst emerald tea slopes",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Grass Hills National Park Viewpoint & Akkamalai",
+        "timeSlot": "08:00 AM – 11:30 AM",
+        "activity": "High-altitude shola grassland vista bordering Eravikulam peaks",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Hornbill Viewpoint & Upper Sholayar Dam",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Spot Great Indian Hornbills and Lion-tailed Macaques in rainforest canopy",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Carver Marsh Monument & Stanmore Tea Factory",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Tribute to the founder of Valparai and fresh CTC/Orthodox tea buying",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Gingee Fort (Senji)",
+    "category": "Heritage",
+    "district": "Villupuram",
+    "wikiTitle": "Gingee_Fort",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Called the 'Troy of the East', this impregnable fortress spans three giant hillocks with royal granaries.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 550,
+    "spots": [
+      {
+        "spotName": "Rajagiri & Krishnagiri HillCitadels",
+        "timeSlot": "07:30 AM – 11:30 AM",
+        "activity": "Climb historic stone steps across moat, drawbridge and hilltop fort",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kalyana Mahal, Royal Granary & Elephant Tank",
+        "timeSlot": "12:00 PM – 02:30 PM",
+        "activity": "Explore 8-storey pyramidal tower and ancient water engineering",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Venkataramana Temple & Sadatullah Mosque",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Vijayanagara pillared halls inside the lower fort ramparts",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Chandrayandurg (Chakkilidurg) Third Hill Fort",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Southern fortification wall and defensive watchtowers",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Ranganathar Hilltop Shrine & Kamalakanni Amman",
+        "timeSlot": "10:45 AM – 12:45 PM",
+        "activity": "Summit shrine atop 800-ft Rajagiri citadel with wind-cooled mandapam",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Raja Desingh Memorial & Chettikulam Pond",
+        "timeSlot": "03:15 PM – 05:15 PM",
+        "activity": "Historic tribute to the legendary warrior Raja Tej Singh of Gingee",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Mandagapattu First Rock-Cut Cave Temple",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "Mahendravarman I's 7th-century cave temple built without brick, timber or metal",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Singavaram Ranganathar Rock-Cut Temple",
+        "timeSlot": "11:45 AM – 01:30 PM",
+        "activity": "24-ft monolithic reclining Vishnu idol carved into a hilltop boulder",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Melmalayanur Angalamman Temple & Veedur Dam",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Famous historic temple and scenic reservoir garden in Villupuram",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Gangaikonda Cholapuram",
+    "category": "Heritage",
+    "district": "Ariyalur",
+    "wikiTitle": "Gangaikonda_Cholapuram",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Imperial capital of Rajendra Chola I featuring a magnificent UNESCO World Heritage Chola temple.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Brihadeeswarar Temple, Gangaikonda Cholapuram",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Curvilinear 180-ft Vimana, Simhakinaru lion well & Chola sculptures",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Maligaimedu Chola Palace Excavation Site",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Archaeological remains of Rajendra Chola's royal brick palace",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Cholagangam (Ponneri) Historic Lake",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "1000-year-old Chola liquid pillar of victory reservoir",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Simhakinaru (Chola Lion Well) & Archaeological Museum",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Giant brick-and-mortar lion statue well and Chola royal artifacts gallery",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kallankurichi Kaliyaperumal Temple",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Famous Ariyalur pilgrimage shrine with grand chariot carvings",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Karaivetti Bird Sanctuary",
+        "timeSlot": "03:15 PM – 06:00 PM",
+        "activity": "Ramsar wetland site attracting bar-headed geese, flamingos & pelicans",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ariyalur Cretaceous Marine Fossil Park (Sathanur)",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "100-million-year-old petrified tree trunk and prehistoric ammonite sea fossils",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Thirumazhapadi Vaidyanathaswamy Temple",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Ancient shrine on the northern bank of Kollidam famous for Nandi Kalyanam",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kamarasavalli Soundareswarar Chola Temple",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "10th-century Parantaka Chola stone inscriptions and pristine sculptures",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Yelagiri Hills",
+    "category": "Hill Station",
+    "district": "Tirupattur",
+    "wikiTitle": "Yelagiri",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Tranquil orchard hill station surrounded by rose gardens, Punganoor Lake and Swamimalai trekking trails.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Punganoor Lake & Nature Park",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Boating, musical fountain park and aquarium",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Swamimalai Hills Trek",
+        "timeSlot": "12:00 PM – 03:00 PM",
+        "activity": "Scenic 3-km forest trail to cake-shaped summit viewpoint",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Jalagamparai Waterfalls & Nilavoor Lake",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Attaru river waterfall and sunset garden walk",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Fundera Park (Birds & Exotic Petting Garden)",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Walk-in aviary with ostriches, macaws, lovebirds & fish spa",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Yelagiri Adventure Camp (ATV & Zipline)",
+        "timeSlot": "11:15 AM – 01:30 PM",
+        "activity": "Hillside zip-lining, archery, rope course & ATV rides",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Velavan (Balamurugan) Hilltop Temple & Telescope House",
+        "timeSlot": "03:30 PM – 05:45 PM",
+        "activity": "Giant Gadothgajan statue, valley viewpoint & sunset photography",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Mangalam Herbal Farm & Jackfruit Orchards",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Walk through Yelagiri honey, jackfruit & medicinal herb plantations",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Perumalapattu Viewpoint & Kottaiyur Village Trail",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Quiet western ridge sunset point overlooking Vaniyambadi plains",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Moksha Vimochana Temple & Cloud Forest Walk",
+        "timeSlot": "11:00 AM – 12:45 PM",
+        "activity": "Unique 12-jyotirlinga garden shrine amidst silver oak groves",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Kolli Hills (Kolli Malai)",
+    "category": "Hill Station",
+    "district": "Namakkal",
+    "wikiTitle": "Kolli_Hills",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Eastern Ghats mountain range accessed via 70 hairpin bends, famed for Agaya Gangai Falls and herbs.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "70 Hairpin Bends & Seekuparai Viewpoint",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "Thrilling ghat drive and panoramic Namakkal valley vistas",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Agaya Gangai Waterfalls & Arapaleeswarar Temple",
+        "timeSlot": "10:30 AM – 02:00 PM",
+        "activity": "Descend 1,000 steps to the 300-ft forest waterfall & ancient temple",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vasalurpatty Boat House & Masila Falls",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Botanical garden, pineapple spice stalls and gentle waterfall",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Siddhar Caves (Korakka Siddhar & Bogar Cave)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Trek through medicinal herb forests to ancient meditation caves",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ettukai Amman Temple (Kolli Paavai)",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "Sangam-era guardian deity shrine celebrated in Silappathikaram",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Namma Aruvi Waterfalls & Selur Viewpoint",
+        "timeSlot": "03:00 PM – 05:45 PM",
+        "activity": "Easy-access cascading waterfall and highest point in Kolli Hills",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Tampcol Medicinal Herbal Farm (Semmedu)",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Explore rare Ayurvedic herbs, hill pepper, cardamom & hill bananas",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "PeriyaSwamy Temple & Valvil Ori Memorial Hall",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Tribute to Sangam chieftain Valvil Ori, one of the Kadai Ezhu Vallalgal",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Puliancholai Foothill Stream & Spice Market",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Refreshing foothill bath and organic Kolli hills honey/pineapple shopping",
+        "entryAndLocalCost": 160
+      }
+    ]
+  },
+  {
+    "name": "Meghamalai (High Wavy Mountains)",
+    "category": "Hill Station",
+    "district": "Theni",
+    "wikiTitle": "Meghamalai",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Unspoiled cloud-kissed mountain range with cardamom estates, Highwavys Dam and misty viewpoints.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Highwavys Dam & Manalar Estate",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Cloud-covered tea estates and serene mountain lakes",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Maharaja Mettu Viewpoint & Iravangalar Dam",
+        "timeSlot": "11:30 AM – 02:30 PM",
+        "activity": "Bird's-eye view of Cumbum Valley and Western Ghats wildlife",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Suruli Falls & Grape Vineyards (Cumbum)",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Two-stage waterfall bath and fresh grape farm visit",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Venniar Tea Estate & Cloud Walk",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Misty morning walk through pristine private tea & pepper plantations",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Thoovanam Dam & Upper Manalar Lake",
+        "timeSlot": "11:15 AM – 01:30 PM",
+        "activity": "Mirror-still mountain reservoir reflecting silver oak and eucalyptus hills",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Chinnamanur & Cumbum Valley Viewpoint",
+        "timeSlot": "03:15 PM – 05:30 PM",
+        "activity": "Dramatic 18-hairpin bend viewpoint overlooking green paddy & grape fields",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Chinna Suruli Falls (Cloudland Falls)",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Two-tiered forest waterfall at Kombaithozhu in the Meghamalai foothills",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Kumbakkarai Waterfalls & Sothuparai Dam",
+        "timeSlot": "02:30 PM – 05:45 PM",
+        "activity": "Natural rock-pool waterfall and scenic arch dam across Varaha river",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Saneeswarar Temple (Kuchanur) & Veerapandi",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "Swayambu shrine on Suruli riverbanks and Gowmariamman temple",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Mudumalai National Park",
+    "category": "Nature & Waterfalls",
+    "district": "Nilgiris",
+    "wikiTitle": "Mudumalai_National_Park",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Lush Nilgiri Biosphere tiger reserve home to wild elephants, Bengal tigers, gaur and Theppakadu camp.",
+    "avgHotelPerPerson": 1150,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 850,
+    "spots": [
+      {
+        "spotName": "Mudumalai Jungle Van / Jeep Safari",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Spot wild elephants, spotted deer, gaur and peacocks in forest",
+        "entryAndLocalCost": 420
+      },
+      {
+        "spotName": "Theppakadu Elephant Camp (Moyar River)",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Watch elephant bathing & feeding session along Moyar river",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Moyar Canyon & Masinagudi Drive",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic wildlife corridor drive and gorge viewpoint",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Needle Rock Viewpoint (Soochimalai, Gudalur)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "360-degree cloud viewpoint overlooking Mudumalai & Wayanad forests",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pykara Waterfalls & Boat House (Nilgiri Border)",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Scenic mountain river cascades and forest speed-boating",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Vibhuthi Malai Murugan Temple & Frog Hill View",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Giant frog-shaped rock formation and hilltop sunset point near Gudalur",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Kargudi & Masinagudi Birdwatching Trail",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Spot Malabar giant squirrels, hornbills, crested hawk-eagles & bison",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Genepool Eco Garden (Nadugani)",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Biodiversity botanical sanctuary with bamboo bridges, ferns & viewpoints",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Maravakandy Dam & Bokkapuram Shola Trail",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Quiet hydro reservoir and elephant corridor watchtower",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Dhanushkodi",
+    "category": "Beach",
+    "district": "Ramanathapuram",
+    "wikiTitle": "Dhanushkodi",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Spectacular sandbar peninsula flanked by the turquoise Bay of Bengal and emerald Indian Ocean.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 800,
+    "spots": [
+      {
+        "spotName": "Arichal Munai (Land's End)",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Walk to the very tip of India's southeastern sandbar",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Dhanushkodi 1964 Cyclone Ruins",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Coral-stone church, old railway station and post office ruins",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kothandaramaswamy Temple & Gulf of Mannar",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Lagoon-surrounded shrine and flamingo spotting",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Dhanushkodi Beach Drive & Flamingo Lagoon",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Scenic straight road flanked by two oceans and migratory bird lagoon",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Ram Setu (Adam's Bridge) Viewpoint",
+        "timeSlot": "10:45 AM – 12:30 PM",
+        "activity": "View the chain of limestone shoals stretching across the Palk Strait",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ramar Paatham (Gandhamadhana Parvatham)",
+        "timeSlot": "03:00 PM – 05:00 PM",
+        "activity": "Two-storey mandapam offering bird's-eye view of the entire island",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Pamban Cantilever Railway & Road Bridge View",
+        "timeSlot": "05:00 PM – 06:30 PM",
+        "activity": "Watch trains glide over India's iconic sea bridge at sunset",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Jada Theertham & Nambu Nayaki Amman Temple",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Sacred lotus-shaped temple tank surrounded by umbrella thorn trees",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Sangumal Beach & Sea Shell Craft Bazaar",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Calm northern lagoon shore and authentic conch shell craft shopping",
+        "entryAndLocalCost": 160
+      }
+    ]
+  },
+  {
+    "name": "Vellore Golden Temple & Fort",
+    "category": "Heritage",
+    "district": "Vellore",
+    "wikiTitle": "Vellore_Fort",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Historic 16th-century granite fort with a wide moat alongside the gleaming Sripuram Golden Temple.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 550,
+    "spots": [
+      {
+        "spotName": "Vellore Fort & Jalakandeswarar Temple",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Explore granite ramparts, moat and Vijayanagara stone carvings",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vellore Government Museum & Tipu Mahal",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Historical weapons, coins and royal fort chambers",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Sripuram Lakshmi Narayani Golden Temple",
+        "timeSlot": "04:00 PM – 07:30 PM",
+        "activity": "Star-shaped spiritual path and illuminated gold-foil shrine",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Amirthi Zoological Park & Seasonal Waterfalls",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Javadi foothills wildlife park, deer enclosures and forest stream",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Ratnagiri Balamurugan Hill Temple",
+        "timeSlot": "12:00 PM – 02:00 PM",
+        "activity": "14th-century hilltop Chola temple celebrated by saint Arunagirinathar",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Virinjipuram Margabandheeswarar Temple",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Exquisite Vijayanagara stone carvings and Simha Theertham tank",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Vallimalai Subramaniya Swamy & Jain Caves",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Rock-cut Murugan cave shrine and 9th-century Jain sculptures",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Palamathi Hills Viewpoint & Otteri Lake",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Eastern Ghats hill drive overlooking Vellore fort and town",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "St. John's Church & Muthu Mandapam",
+        "timeSlot": "11:00 AM – 12:30 PM",
+        "activity": "1846 colonial church inside Vellore Fort and Palar riverbank memorial",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Tharangambadi (Tranquebar)",
+    "category": "Beach",
+    "district": "Mayiladuthurai",
+    "wikiTitle": "Tharangambadi",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Land of the Singing Waves featuring the 1620 Danish Fort Dansborg, colonial streets and ozone-rich beach.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Fort Dansborg (Danish Fort) & Museum",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "17th-century coastal terracotta-and-stone Danish fortress",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Masilamani Nathar Temple & Tranquebar Beach",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "1306 Pandya shoreline temple and breezy coastal walk",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "New Jerusalem Church & King's Street",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "1718 heritage church, Town Gate and Maritime Museum",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ziegenbalg Printing Press Museum & Goldsmith Street",
+        "timeSlot": "09:00 AM – 11:00 AM",
+        "activity": "Site of India's first Tamil printing press (1712) and Danish heritage lane",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Zion Church & Danish Governor's Bungalow",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "1701 Protestant church and restored colonial sea-facing architecture",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thirukkadaiyur Abhirami & Amritaghateswarar Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Famous Chola temple of Kala Samhara Murthy just 8 km from Tranquebar",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Karaikal Beach & Arasalar River Estuary",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Scenic lighthouse promenade and river boating",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Mayuranathaswamy Temple (Mayiladuthurai)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Grand Cauvery delta Shiva temple with 9-tiered Raja Gopuram",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ananthamangalam Rajagopala Swamy & Dasabhuja Anjaneyar",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Unique 10-armed Hanuman shrine along the coastal heritage route",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Velankanni & Nagapattinam",
+    "category": "Beach",
+    "district": "Nagapattinam",
+    "wikiTitle": "Basilica_of_Our_Lady_of_Good_Health",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Famous coastal pilgrimage center home to the Basilica of Our Lady of Good Health and Nagore Dargah.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Basilica of Our Lady of Good Health",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Gothic white coastal basilica, Morning Star Church & Museum",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Velankanni Beach & Nagore Dargah",
+        "timeSlot": "11:00 AM – 02:00 PM",
+        "activity": "Bay of Bengal shoreline and 500-year-old five-minaret dargah",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Point Calimere (Kodiyakarai) Wildlife Sanctuary",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Coastal blackbuck, migratory birds and Chola lighthouse",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Our Lady's Tank (Matha Kulam) & Way of the Cross",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Sacred apparition site connected by a white marble pilgrim pathway",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Soundararaja Perumal & Kayarohanaswamy Temple (Nagapattinam)",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Ancient Divya Desam and Saptha Vidanga Thyagaraja shrine",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sikkal Singaravelavar Temple & Ettukudi Murugan",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Famous Vel-receiving Murugan shrine with Chola stone architecture",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Muthupet Lagoon Mangrove Boating",
+        "timeSlot": "08:30 AM – 12:00 PM",
+        "activity": "Boat ride through sprawling coastal lagoons and mangrove creeks",
+        "entryAndLocalCost": 260
+      },
+      {
+        "spotName": "Nagapattinam Lighthouse & Dutch Chudamani Vihara Site",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Coastal lighthouse view and historic maritime trading port landmarks",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Vedaranyam Vedaranyeswarar Temple & Salt Pans",
+        "timeSlot": "11:00 AM – 01:15 PM",
+        "activity": "Historic Salt Satyagraha memorial and ancient Saptha Vidanga temple",
+        "entryAndLocalCost": 130
+      }
+    ]
+  },
+  {
+    "name": "Palani",
+    "category": "Temple",
+    "district": "Dindigul",
+    "wikiTitle": "Dhandayuthapani_Swamy_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Revered hilltop abode of Lord Murugan (Arupadai Veedu) with ropeway, winch train and Panchamirtham.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Arulmigu Dhandayuthapani Swamy Hill Temple",
+        "timeSlot": "06:30 AM – 10:30 AM",
+        "activity": "Winch / rope car ascent, Navapashanam idol darshan & Golden Chariot",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Thiru Avinankudi & Periyanayaki Amman Temple",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Foothill shrines and authentic GI-tagged Palani Panchamirtham",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Palar-Porandalar Dam & Idumban Hill",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Western Ghats reservoir view and twin hill shrine",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Varathamanathi Dam & Western Ghats View",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Peaceful foothill reservoir along the Kodaikanal ghat road",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Kuthiraiyar Dam & Waterfall Trail (Pappampatti)",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Scenic dam surrounded by Palani Hills wildlife and coconut farms",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Lakshminarayana Perumal & Mariamman Temple (Palani Town)",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Historic town shrines and Siddha herbal bazaar walk",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Bhogar Samadhi & Pulipani Ashram",
+        "timeSlot": "08:00 AM – 10:00 AM",
+        "activity": "Sacred shrine of Siddhar Bhogar who crafted the Navapashanam idol",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Shanmuganathi River Confluence & Sadhuragiri View",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Holy river bathing ghat where devotees perform traditional rituals",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sirumalai Foothills & Dindigul Rock Fort Excursion",
+        "timeSlot": "09:30 AM – 01:00 PM",
+        "activity": "Visit 17th-century Dindigul Malaikottai hilltop fortress & Soundararaja Perumal",
+        "entryAndLocalCost": 180
+      }
+    ]
+  },
+  {
+    "name": "Tiruchendur",
+    "category": "Temple",
+    "district": "Thoothukudi",
+    "wikiTitle": "Tiruchendur_Murugan_Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Unique seaside Arupadai Veedu Murugan temple built right on the shores of the Gulf of Mannar.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Subramaniya Swamy Temple & Nazhikinaru",
+        "timeSlot": "06:00 AM – 10:00 AM",
+        "activity": "Holy sea dip, freshwater sacred well & seaside sanctum darshan",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Valli Cave & Seashore Promenade",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Sandstone cliff cave overlooking turquoise waves",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Manapad Beach & Kulasekarapattinam",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Scenic coastal cliff cross church and palm-fringed lagoon",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Kulasekarapattinam Mutharamman Temple & Beach",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Famous coastal temple renowned for grand Dasara folk celebrations",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kayalpattinam Beach & Ancient Mosque Architecture",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Historic Pandya-era port town recorded by Marco Polo in 1292",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Nava Tirupati Temple Circuit (Srivaikuntam & Alwarthirunagari)",
+        "timeSlot": "03:00 PM – 06:30 PM",
+        "activity": "Sacred Divya Desam Vishnu temples along the Thamirabarani riverbanks",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Korkai Ancient Pandya Pearl Port Museum",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "2,000-year-old Sangam port excavation site and 1,000-year-old Vanni tree",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Kazhugumalai Vettuvan Koil (South Ellora)",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "8th-century Pandya monolithic rock-cut temple and Jain relief beds",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Ayyanar Sunai Natural Spring & Red Sand Dunes (Theri Kaadu)",
+        "timeSlot": "04:00 PM – 06:15 PM",
+        "activity": "Dramatic red desert dunes of Kudiraimozhi surrounded by palmyra palms",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Poompuhar",
+    "category": "Heritage",
+    "district": "Mayiladuthurai",
+    "wikiTitle": "Puhar",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Ancient Sangam-era Chola port city celebrated in the epic Silappathikaram where Cauvery meets the sea.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Silappathikaram Art Gallery",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "7-storey Dravidian monument with stone sculptures of Kannagi & Kovalan",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kaveripoompattinam Estuary & Beach",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Confluence where River Cauvery joins the Bay of Bengal",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pavaai Mandram & Marine Archaeology Museum",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Submerged Chola port artifacts and coastal monuments",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ilavanchi Mandram & Nedunkal Mandram Monuments",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Architectural pavilions recreating the five public squares of ancient Puhar",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pallavaneswarar Temple & Sayavanam Chayaveneswarar",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Tevaram Paadal Petra Sthalams located within ancient Kaveripoompattinam",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Poompuhar Lighthouse & Sangam Fisherman Beach",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Coastal watchtower and granite statues along the Bay of Bengal",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Thiruvengadu Swetharanyeswarar (Budhan / Mercury Temple)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Agora Veerabhadra shrine, three sacred tanks and Navagraha Budhan temple",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Keezhaperumpallam (Kethu) & Tirunangur 11 Divya Desams",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Historic cluster of 11 Vishnu temples celebrated for Garuda Sevai",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vanagiri Cauvery Sangamam & Masilamani Temple View",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic river-sea confluence point and coastal fishing harbor",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Kovalam (Covelong) Beach",
+    "category": "Beach",
+    "district": "Chengalpattu",
+    "wikiTitle": "Covelong",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Blue Flag certified beach along the East Coast Road famous for surfing, kayaking and Dutch fort ruins.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 450,
+    "spots": [
+      {
+        "spotName": "Kovalam Blue Flag Beach & Surfing Point",
+        "timeSlot": "07:00 AM – 10:30 AM",
+        "activity": "Eco-friendly clean beachfront, surf lessons & catamaran ride",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Muttukadu Boat House (Backwaters)",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Rowing, speed boating and water sports on East Coast backwaters",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Madras Crocodile Bank & Dutch Cemetery",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Reptile conservation park and coastal sunset walk",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "DakshinaChitra Heritage Museum (Muttukadu)",
+        "timeSlot": "09:30 AM – 12:30 PM",
+        "activity": "18 authentic heritage houses, live pottery, glassblowing & folk performances",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Covelong Point Surf School & Kayaking Lagoon",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Stand-up paddleboarding, sea kayaking and beach volleyball",
+        "entryAndLocalCost": 300
+      },
+      {
+        "spotName": "Hazrat Tamim Ansari Dargah & Catholic Church",
+        "timeSlot": "05:30 PM – 07:00 PM",
+        "activity": "Historic coastal harmony landmarks along Kovalam bay",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Nithya Kalyana Perumal Temple, Thiruvidanthai",
+        "timeSlot": "08:00 AM – 10:00 AM",
+        "activity": "7th-century Pallava Varaha Divya Desam temple on East Coast Road",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Muttukadu Floating Deck & Kovalam Lighthouse View",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Sunset backwater photography and fresh coastal seafood stalls",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Cholamandal Artists' Village & ECR Art Galleries",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "India's largest self-supporting contemporary artists' commune and sculpture park",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Pollachi & Topslip (Anamalai)",
+    "category": "Nature & Waterfalls",
+    "district": "Coimbatore",
+    "wikiTitle": "Anamalai_Tiger_Reserve",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Lush coconut-grove countryside leading to Topslip wildlife sanctuary, Monkey Falls and Parambikulam.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Aliyar Dam Park & Monkey Falls",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Foothill reservoir gardens and refreshing natural mountain waterfall",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Topslip (Anamalai Tiger Reserve) Safari",
+        "timeSlot": "11:30 AM – 03:00 PM",
+        "activity": "Forest jeep safari, bamboo groves & Kozhikamuthi elephant camp",
+        "entryAndLocalCost": 380
+      },
+      {
+        "spotName": "Pollachi Coconut Farms & Masani Amman Temple",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Scenic tender-coconut farm drive and Anaimalai temple visit",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Parambikulam Tiger Reserve & Kannimara Teak Tree",
+        "timeSlot": "08:00 AM – 12:30 PM",
+        "activity": "Eco-bus safari to the world's largest living 450-year-old teak tree & reservoir",
+        "entryAndLocalCost": 350
+      },
+      {
+        "spotName": "Thirumoorthy Hills, Dam & Amanalingeswarar Temple",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Panchalinga waterfalls trek, sunflower fields and scenic dam boating",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Amaravathi Dam & Crocodile Park",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Climb steep dam steps for sweeping Anamalai-Palani hill range views",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Kariyanchola Forest Trail & Karian Shola Watchtower",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Guided ranger nature walk inside Topslip deciduous & evergreen forest",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Arivu Thirukoil (Temple of Consciousness), Aliyar",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Vethathiri Maharishi meditation hall at the base of Valparai ghats",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pollachi Jaggery Making & Handloom Village Tour",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Traditional organic coconut jaggery craft andNegamam cotton saree weaving",
+        "entryAndLocalCost": 160
+      }
+    ]
+  },
+  {
+    "name": "Coimbatore & Isha Yoga Center",
+    "category": "Temple",
+    "district": "Coimbatore",
+    "wikiTitle": "Adiyogi_Shiva_bust",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Gateway to the Western Ghats featuring the 112-ft Adiyogi Shiva bust, Marudhamalai and Siruvani hills.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Marudhamalai Hill Murugan Temple",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "12th-century Western Ghats hill shrine and Pambatti Siddhar cave",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "GD Naidu Car Museum & Perur Pateeswarar Temple",
+        "timeSlot": "11:00 AM – 02:00 PM",
+        "activity": "Vintage automobile collection and Chola-era Kanaka Sabha pillars",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Dhyanalinga & 112-ft Adiyogi (Velliangiri Foothills)",
+        "timeSlot": "04:00 PM – 07:30 PM",
+        "activity": "Meditation dome and evening Adiyogi Divya Darshanam light show",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Siruvani Waterfalls & Kovai Kutralam Eco Falls",
+        "timeSlot": "08:00 AM – 12:00 PM",
+        "activity": "Forest department eco-shuttle to crystal-clear Western Ghats waterfall",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Gass Forest Museum & TNAU Botanical Garden",
+        "timeSlot": "12:30 PM – 02:30 PM",
+        "activity": "1902 natural history forestry museum and 300-acre botanical garden",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Valankulam & Ukkadam Periyakulam Lakefront",
+        "timeSlot": "04:30 PM – 07:00 PM",
+        "activity": "Smart city illuminated lake promenade, floating walkway & street food",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Eachanari Vinayagar & Koniamman Temple",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "Ancient guardian deity shrines of Coimbatore and Annapoorna filter coffee",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Vellingiri Andavar Foothill Temple (Poondi)",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "South Kailash foothill shrine surrounded by bamboo groves",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Kasthuri Sreenivasan Art Gallery & Textile Museum",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Discover Coimbatore's textile heritage, paintings and sculptures",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Kotagiri",
+    "category": "Hill Station",
+    "district": "Nilgiris",
+    "wikiTitle": "Kotagiri",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "The oldest and quietest Nilgiri hill station featuring Catherine Falls, Kodanad Viewpoint and Longwood Shola.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 800,
+    "spots": [
+      {
+        "spotName": "Kodanad Viewpoint",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Breathtaking vista of Rangaswamy Peak, Bhavani Sagar Dam & Mysore plateau",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Catherine Falls (Double Cascading Waterfall)",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Tea garden walk to the 250-ft twin-tiered Nilgiri waterfall",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Longwood Shola Forest & Elk Falls",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Ancient montane shola rainforest birdwatching trail",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Rangaswamy Peak & Pillar Viewpoint",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Sacred conical peak rising 5,856 ft and misty Nilgiri ridge walk",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "John Sullivan Memorial & Panneri Museum (Kannerimukku)",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "1819 stone cottage of the founder of Ooty & Nilgiri tribal heritage museum",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Nehru Park & Elk Falls Colonial Bungalow Trail",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Flower garden, Kota tribe temple view and European-era stone house",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Uyilatty Falls & Tea Plantation Walk",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "Scenic step-waterfall surrounded by green tea terraces",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "St. Luke's Church & Kotagiri Golf Course View",
+        "timeSlot": "12:00 PM – 01:30 PM",
+        "activity": "Heritage hilltop church and peaceful pine-fringed meadows",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Moyar Valley & Bhavanisagar Reservoir Panorama",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Golden sunset over the meeting point of Western & Eastern Ghats",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Thoothukudi (Tuticorin) & Pearl Coast",
+    "category": "Beach",
+    "district": "Thoothukudi",
+    "wikiTitle": "Thoothukudi",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Pearl City on the Gulf of Mannar famous for Hare Island beach, Our Lady of Snows Basilica and Macaroons.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Our Lady of Snows Basilica & Roche Park",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "16th-century Portuguese coastal basilica and seaside promenade",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Hare Island (Muyal Theevu) & Harbour Beach",
+        "timeSlot": "11:00 AM – 02:00 PM",
+        "activity": "Lighthouse view, shallow coral bay & Tuticorin cashew macaroon tasting",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Kattabomman Memorial Fort, Panchalankurichi",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Freedom fighter Veerapandiya Kattabomman fort and gallery",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sankara Rameshwarar Temple (Pandya Architecture)",
+        "timeSlot": "08:00 AM – 10:00 AM",
+        "activity": "Historic Pandya temple in the heart of Thoothukudi city",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Muthu Nagar Beach & Pearl City Park",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Seaside amphitheater, children's park and Gulf of Mannar breeze",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Ettayapuram Bharathiyar Birthplace Memorial & Palace",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Ancestral house of Mahakavi Subramania Bharathi & Umaru Pulavar Dargah",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Ottapidaram V.O. Chidambaranar (VOC) Memorial House",
+        "timeSlot": "12:30 PM – 02:00 PM",
+        "activity": "Heritage museum honoring Kappalottiya Tamizhan VOC",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kalugumalai Jain Beds & Kalugasalamoorthy Temple",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Monolithic rock-cut Chola-Pandya sculptures and hilltop carvings",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vembar Beach & Tuticorin Salt Pan Sunset",
+        "timeSlot": "04:30 PM – 06:30 PM",
+        "activity": "Mirror-like white salt pans reflecting the evening sky",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Pudukkottai & Sittanavasal",
+    "category": "Heritage",
+    "district": "Pudukkottai",
+    "wikiTitle": "Sittanavasal_Cave",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Archaeological treasure trove of 2nd-century Jain cave frescoes, Narthamalai rock temples and forts.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Sittanavasal Rock-Cut Jain Cave & Lotus Pond Frescoes",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Ancient mural paintings and Eladipattam Jain rock beds",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Vijayalaya Choleeswaram (Narthamalai)",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "One of the earliest circular stone Chola hillside temples",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kudumiyanmalai Musical Inscription Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "7th-century rock-cut musical notes inscription & 1000-pillar hall",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Thirumayam Rock Fort & Satyamurthi Perumal Cave Temple",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "1687 Setupati hilltop fortress with rock-cut Shiva & Vishnu shrines",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Avudaiyarkoil Athmanathaswamy Temple",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Masterpiece of stone roof-joinery and monolithic granary sculptures",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pudukkottai Government Museum & Tondaiman Palace",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Second largest state museum in TN with rare bronzes, geology & royal gallery",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Kodumbalur Moovar Koil (Three Early Chola Temples)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "9th-century Irukkuvelir stone vimanas praised for classical sculpture",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Viralimalai Murugan Hill Temple & Peacock Sanctuary",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "207-step hillock shrine teeming with wild dancing peacocks",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Brahadambal Temple (Thirugokarnam) Rock-Cut Shrine",
+        "timeSlot": "11:00 AM – 12:45 PM",
+        "activity": "Pallava rock-cut Gokarneswarar sanctum at the base of Kapilar rock",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Kalakkad Mundanthurai & Manjolai",
+    "category": "Nature & Waterfalls",
+    "district": "Tirunelveli",
+    "wikiTitle": "Kalakkad_Mundanthurai_Tiger_Reserve",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "River sanctuary of the Thamirabarani featuring Agasthiyar Falls, Papanasam Dam and lush Western Ghats.",
+    "avgHotelPerPerson": 850,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Agasthiyar Falls & Papanasam Nathar Temple",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Perennial Thamirabarani river waterfall and sacred foothill temple",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Karaiyar Dam & Servalar Reservoir",
+        "timeSlot": "11:00 AM – 02:00 PM",
+        "activity": "Scenic forest dams surrounded by Agasthyamalai biosphere hills",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Nellaiappar Temple & Tirunelveli Halwa Trail",
+        "timeSlot": "04:00 PM – 07:30 PM",
+        "activity": "Musical stone pillars and iconic Iruttukadai wheat halwa tasting",
+        "entryAndLocalCost": 200
+      },
+      {
+        "spotName": "Manimuthar Dam, Garden & Manimuthar Waterfalls",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "80-ft natural forest pool waterfall and panoramic reservoir park",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Sivasailam Paramakalyani Temple & Gadana Nathi Dam",
+        "timeSlot": "12:00 PM – 02:30 PM",
+        "activity": "Scenic Western Ghats foothill shrine and emerald dam garden",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Krishnapuram Venkatachalapathy Life-Size Sculptures",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "World-renowned Nayak-era monolithic stone sculptures with lifelike veins",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Koonthankulam Bird Sanctuary",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Largest reserve for breeding waterbirds, painted storks & flamingos in South India",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Pattamadai Fine Korai Silk-Mat Weaving Village",
+        "timeSlot": "11:30 AM – 01:15 PM",
+        "activity": "Witness GI-tagged ultra-fine Thamirabarani reed mat handloom weaving",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Tirunelveli District Science Centre & Thamirabarani Ghats",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Interactive science park, planetarium & Kurukkuthurai river view",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Namakkal & Fort Rock",
+    "category": "Heritage",
+    "district": "Namakkal",
+    "wikiTitle": "Namakkal_Fort",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Dramatic single-rock hillock fort overlooking the 18-ft Anjaneyar Temple and rock-cut Narasimhaswamy cave.",
+    "avgHotelPerPerson": 800,
+    "avgFoodPerDay": 380,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Namakkal Anjaneyar & Narasimhaswamy Cave Temple",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Open-sky 18-ft monolithic Hanuman shrine & 8th-century Pandya cave",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Namakkal Malaikottai (Rock Fort)",
+        "timeSlot": "10:15 AM – 12:30 PM",
+        "activity": "Climb the 65-meter monolithic quartz rock citadel for 360° views",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Tiruchengode Ardhanareeswarar Hill Temple",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Red hill shrine with 60-ft carved Nagamalai serpent & sunset view",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Koolippatti Murugan Hill Temple & Namagiripettai",
+        "timeSlot": "08:30 AM – 10:30 AM",
+        "activity": "Peaceful hillock shrine overlooking green tapioca & sugarcane farms",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Bhavani Kooduthurai (Triveni Sangamam of Kongu Nadu)",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Confluence of Cauvery, Bhavani & Amudha rivers at Sangameswarar Temple",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Jedarpalayam Dam & Cauvery River Park",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Barrage across River Cauvery, children's park and coracle boating",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Thathagiri Murugan Temple (Sendamangalam)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Ancient Swayambu hill shrine with natural spring at Kolli foothills",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Kabilarmalai Balasubramaniya Swamy Hill Temple",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Hilltop shrine associated with Sangam poet Kabilar overlooking Cauvery",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Mohanur Navapashana Vasishteswarar & Navaladiyan Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Historic Cauvery riverbank temple complex in Namakkal district",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Srivilliputhur",
+    "category": "Temple",
+    "district": "Virudhunagar",
+    "wikiTitle": "Srivilliputhur Andal temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Home to the iconic 192-foot Andal Temple Rajagopuram (the official emblem of Tamil Nadu) and the Grizzled Squirrel Wildlife Sanctuary.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Arulmigu Nachiyar (Andal) Temple & 192-ft Rajagopuram",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Darshan at the birthplace of Sri Andal & Periazhwar and view the towering 11-tiered gopuram",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Madavar Vilagam Vaidyanathar Swamy Temple",
+        "timeSlot": "10:00 AM – 12:00 PM",
+        "activity": "Ancient Pandya-era Shiva temple famous for the 6-foot stone Nataraja sculpture",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Shenbagathoppu Grizzled Squirrel Wildlife Sanctuary",
+        "timeSlot": "02:30 PM – 05:00 PM",
+        "activity": "Western Ghats foothills nature trail, forest stream & rare grizzled giant squirrel habitat",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Thiruvannamalai Srinivasa Perumal Hill Temple (Srivilliputhur)",
+        "timeSlot": "05:15 PM – 07:00 PM",
+        "activity": "Climb the scenic hillock shrine known as South Tirupati and buy famous Srivilliputhur Palkova",
+        "entryAndLocalCost": 180
+      }
+    ]
+  },
+  {
+    "name": "Swamimalai",
+    "category": "Temple",
+    "district": "Thanjavur",
+    "wikiTitle": "Swamimalai Murugan Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Fourth Arupadaiveedu abode of Lord Murugan where He expounded the Pranava Mantra to Lord Shiva, famed for Chola bronze sculpture artisans.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Arulmigu Swaminathaswamy Temple (60 Tamil Year Steps)",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Ascend the 60 sacred stone steps representing the Hindu cycle of years at this Arupadaiveedu shrine",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Swamimalai Panchaloha Bronze Casting Artisan Workshops",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Watch traditional Stapathis craft GI-tagged lost-wax Chola bronze idols by hand",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Tiruvalanjuzhi Kabardeeswarar & Vellai Vinayagar Temple",
+        "timeSlot": "03:00 PM – 05:00 PM",
+        "activity": "Visit the historic shrine with the rare white sea-foam Ganesha idol and Chola stone windows",
+        "entryAndLocalCost": 90
+      },
+      {
+        "spotName": "Patteswaram Durgai Amman Temple",
+        "timeSlot": "05:15 PM – 07:00 PM",
+        "activity": "Evening darshan at the revered Chola royal family guardian temple near Swamimalai",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Thiruthani",
+    "category": "Temple",
+    "district": "Tiruvallur",
+    "wikiTitle": "Subramaniya Swamy Temple, Tiruttani",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Fifth Arupadaiveedu hill shrine of Lord Murugan featuring 365 sacred steps representing the days of the year, just 85 km from Chennai.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 450,
+    "spots": [
+      {
+        "spotName": "Arulmigu Subramaniya Swamy Hill Temple (365 Steps)",
+        "timeSlot": "06:30 AM – 10:00 AM",
+        "activity": "Morning darshan at the fifth Arupadaiveedu where Lord Murugan married Valli in peaceful bliss",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Saravana Poigai Sacred Temple Tank",
+        "timeSlot": "10:30 AM – 12:00 PM",
+        "activity": "Holy spring-fed temple tank at the foothills surrounded by scenic hillocks",
+        "entryAndLocalCost": 60
+      },
+      {
+        "spotName": "Tiruvalangadu Vadaranyeswarar Temple (Ratna Sabhai)",
+        "timeSlot": "03:00 PM – 05:15 PM",
+        "activity": "First of the five cosmic dance halls (Pancha Sabhai) of Lord Shiva associated with Karaikkal Ammaiyar",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Pazhamudircholai & Alagar Koyil",
+    "category": "Temple",
+    "district": "Madurai",
+    "wikiTitle": "Kallazhagar Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Lush Alagar Hills reserve forest housing both the Divya Desam Kallazhagar Perumal Temple and the sixth Arupadaiveedu Solaimalai Murugan Temple.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 620,
+    "spots": [
+      {
+        "spotName": "Arulmigu Kallazhagar Sundararaja Perumal Temple",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Explore the ancient fort-walled Divya Desam temple, sculpted mandapams & famous Dosai prasadam",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Pazhamudircholai Solaimalai Murugan Temple",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Sixth Arupadaiveedu shrine nestled amidst dense fruit orchards on Alagar Hills",
+        "entryAndLocalCost": 130
+      },
+      {
+        "spotName": "Noopura Gangai (Silambaru) Natural Mountain Spring",
+        "timeSlot": "02:30 PM – 05:00 PM",
+        "activity": "Sacred perennial herbal mountain spring & Rakkayi Amman shrine at the top of Alagar Hills",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Thiruparankundram",
+    "category": "Temple",
+    "district": "Madurai",
+    "wikiTitle": "Thiruparankundram Murugan Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "First of the six Arupadaiveedu abodes of Lord Murugan, featuring an 8th-century Pandya rock-cut cave sanctum where Murugan wedded Deivanai.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Arulmigu Subramaniya Swamy Rock-Cut Cave Temple",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Darshan at the first Arupadaiveedu with rock-carved shrines of Shiva, Vishnu, Durga, Vinayakar & Murugan",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thiruparankundram Hill Top Kasi Viswanathar & Machu Sunni",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Scenic stone step climb up the monolithic hill for panoramic views of Madurai & Saravana Poigai lake",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Samanar Malai (Keelakuyilkudi 2,000-Year-Old Jain Beds)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Explore Tamil-Brahmi inscriptions, rock-cut Jain Tirthankara reliefs & sunset viewpoint",
+        "entryAndLocalCost": 110
+      }
+    ]
+  },
+  {
+    "name": "Mayiladuthurai & Vaitheeswaran Koil",
+    "category": "Temple",
+    "district": "Mayiladuthurai",
+    "wikiTitle": "Vaitheeswaran Koil",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Sacred Cauvery delta circuit featuring Vaitheeswaran Koil (Navagraha Mars shrine & Nadi astrology center), Mayuranathaswami Temple, and Thirukadaiyur.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Vaitheeswaran Koil (Vaidyanathaswamy & Angaraka Shrine)",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Navagraha temple of Mars (Sevvai), Siddhamirtham holy tank & traditional Nadi leaf heritage",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Mayuranathaswami Temple & Thula Kattam Cauvery Ghat",
+        "timeSlot": "10:15 AM – 12:30 PM",
+        "activity": "Historic Mayiladuthurai temple where Goddess Parvati worshipped Shiva in the form of a peacock",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Thirukadaiyur Amrithaghateswarar & Abirami Amman Temple",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Famous Mrityunjaya shrine where Lord Shiva protected sage Markandeya",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Sirkazhi & Tiruvenkadu",
+    "category": "Temple",
+    "district": "Mayiladuthurai",
+    "wikiTitle": "Sattanathar temple, Sirkazhi",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Ancient Saivite pilgrimage town housing the three-tiered Sattanathar Temple (birthplace of saint Tirugnanasambandar) and Tiruvenkadu Budhan shrine.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 560,
+    "spots": [
+      {
+        "spotName": "Sirkazhi Sattanathar (Brahmapureeswarar) Three-Tier Temple",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Unique three-level shrine of Brahmapureeswarar, Thoniappar & Sattanathar with Brahma Theertham",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Tiruvenkadu Swetharanyeswarar (Budhan / Mercury) Temple",
+        "timeSlot": "10:15 AM – 12:30 PM",
+        "activity": "Aghora Murthy shrine, three sacred tanks (Surya, Chandra, Agni) & Navagraha Mercury temple",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Keezhaperumpallam Nagannathaswamy (Kethu) Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Visit the Navagraha Kethu Sthalam surrounded by lush Cauvery delta paddy fields",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Samayapuram & Thiruvanaikaval",
+    "category": "Temple",
+    "district": "Tiruchirappalli",
+    "wikiTitle": "Samayapuram Mariamman Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "One of Tamil Nadu's most visited Shakti shrines paired with Thiruvanaikaval Jambukeswarar (Panchabhoota Water Sthalam) and Srirangam Butterfly Park.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 550,
+    "spots": [
+      {
+        "spotName": "Arulmigu Samayapuram Mariamman Temple",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Revered herbal-clay swayambu Mariamman shrine famous for healing vows and floral offerings",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thiruvanaikaval Jambukeswarar Akilandeswari Temple",
+        "timeSlot": "10:15 AM – 12:30 PM",
+        "activity": "Panchabhoota Sthalam of Water (Appu Lingam) with an underground perennial spring in the sanctum",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Tropical Butterfly Conservatory (Upper Anaicut / Srirangam)",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Asia's largest butterfly park at the confluence of Cauvery and Kollidam rivers",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Pillayarpatti & Kundrakudi",
+    "category": "Temple",
+    "district": "Sivaganga",
+    "wikiTitle": "Karpaka Vinayakar Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "4th-century Pandya rock-cut cave temple of Karpaka Vinayakar in Pillayarpatti alongside the scenic Kundrakudi Murugan hillock temple.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Pillayarpatti Karpaka Vinayakar Rock-Cut Cave Temple",
+        "timeSlot": "06:30 AM – 09:00 AM",
+        "activity": "6-foot rock-cut Valampuri Vinayakar with ancient Vatteluttu Tamil inscriptions",
+        "entryAndLocalCost": 90
+      },
+      {
+        "spotName": "Kundrakudi Shanmuganathar Hill Temple",
+        "timeSlot": "09:45 AM – 12:00 PM",
+        "activity": "Climb the peacock-shaped rock hill temple surrounded by three Pandya cave shrines",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vairavanpatti Vairavanswamy Temple (Nagarathar Kovil)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Marvel at intricate Chettinad stone pillars, metallic artwork & Martanda Bhairavar shrine",
+        "entryAndLocalCost": 110
+      }
+    ]
+  },
+  {
+    "name": "Pamban Island & Sea Bridge",
+    "category": "Beach",
+    "district": "Ramanathapuram",
+    "wikiTitle": "Pamban Bridge",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "India's first sea bridge and new vertical-lift railway bridge spanning the turquoise Palk Strait, paired with Kunthukal and Villoondi coastal beaches.",
+    "avgHotelPerPerson": 1200,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 720,
+    "spots": [
+      {
+        "spotName": "Annai Indira Gandhi Road Bridge & Pamban Vertical Lift Bridge",
+        "timeSlot": "07:30 AM – 09:30 AM",
+        "activity": "Panoramic views of the emerald Palk Strait & engineering marvel connecting Mandapam to Pamban Island",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kunthukal Beach & Kurusadai Marine Biosphere View",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Crystal-clear shallow turquoise lagoon ideal for coastal walks and marine photography",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Villoondi Theertham Beach & Freshwater Sea Well",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Unique freshwater spring well located right inside the salty sea waves along a serene beach",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Ramanathapuram Palace & Devipattinam",
+    "category": "Heritage",
+    "district": "Ramanathapuram",
+    "wikiTitle": "Ramalinga Vilasam Palace",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Royal capital of the Setupathi kings featuring the mural-adorned Ramalinga Vilasam Palace, Erwadi, and the coastal Navabashanam shrine at Devipattinam.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 680,
+    "spots": [
+      {
+        "spotName": "Ramalinga Vilasam Setupathi Royal Palace & Museum",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "Explore 18th-century Setupathi royal durbar hall, historic murals, weapons & armoury",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Devipattinam Navabashanam Sea Temple",
+        "timeSlot": "12:00 PM – 02:00 PM",
+        "activity": "Nine planetary stone pillars submerged in the calm waters of the Bay of Bengal",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thiruppullani Adi Jagannatha Perumal Temple & Sethu Karai",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Ancient Divya Desam shrine & historic Sethu Karai beach associated with the Ramayana",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Dindigul Rock Fort",
+    "category": "Heritage",
+    "district": "Dindigul",
+    "wikiTitle": "Dindigul Fort",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Massive 17th-century monolithic rock fortress rising 280 feet above Dindigul town, historically defended by Nayak kings, Hyder Ali, and Tipu Sultan.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Dindigul Malai Kottai (Rock Fort) & Cannon Bastions",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Climb the historic granite steps to fort ramparts, ammunition chambers & 360° Western Ghats views",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Abirami Amman & Kottai Mariamman Temples",
+        "timeSlot": "11:30 AM – 01:00 PM",
+        "activity": "Visit Dindigul's historic town temples and savor authentic Dindigul Thalappakatti seeraga samba biryani",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Athoor Kamarajar Dam & Western Ghats Foothills",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic reservoir surrounded by coconut groves and Western Ghats mountain peaks",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Sirumalai Hills",
+    "category": "Hill Station",
+    "district": "Dindigul",
+    "wikiTitle": "Sirumalai",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Serene 1,600-meter Eastern Ghats hill station near Dindigul and Madurai, famous for 18 hairpin bends, hill bananas, silver oak coffee estates, and cool climate.",
+    "avgHotelPerPerson": 1250,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 620,
+    "spots": [
+      {
+        "spotName": "Sirumalai 18 Hairpin Bends & Dindigul Valley Viewpoint",
+        "timeSlot": "08:00 AM – 10:00 AM",
+        "activity": "Misty morning drive up 18 hairpin bends with panoramic views of Dindigul Rock Fort below",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Sirumalai Lake & Boating Park",
+        "timeSlot": "10:30 AM – 01:00 PM",
+        "activity": "Pedal boating in the tranquil artificial hill lake surrounded by pepper and coffee plantations",
+        "entryAndLocalCost": 180
+      },
+      {
+        "spotName": "Sanjeevani Hills & Vellimalai Murugan Shrine",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Trek to the hilltop Murugan temple & medicinal herb forest trail",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Javadi Hills (Jawadhu Malai)",
+    "category": "Hill Station",
+    "district": "Tiruvannamalai",
+    "wikiTitle": "Javadi Hills",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Unspoiled Eastern Ghats hill range spanning Tiruvannamalai and Vellore districts, home to Beemanmadavu Waterfalls, Kavalur Observatory, and Komutteri Lake.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Beemanmadavu Waterfalls (Jamunamarathur Forest)",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Refreshing forest walk to the cascading Beeman Falls amidst sandalwood and bamboo groves",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Komutteri Lake & Jamunamarathur Boat House",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Boating and island park relaxation at the largest high-altitude lake in the Javadi Hills",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vainu Bappu Astronomical Observatory (Kavalur)",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Visit one of Asia's premier optical telescope observatories nestled in the Javadi pine forests",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Pachaimalai Hills",
+    "category": "Hill Station",
+    "district": "Tiruchirappalli",
+    "wikiTitle": "Pachaimalai Hills",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Emerald-green hills near Thuraiyur in Tiruchirappalli district offering seasonal waterfalls, jackfruit orchards, tribal culture, and cool trekking trails.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 520,
+    "spots": [
+      {
+        "spotName": "Koraiyar Waterfalls & Forest Stream",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Scenic hike through green valleys to the natural rock pools of Koraiyar Falls",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Mangalam Waterfalls & Jackfruit Orchards",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Cascading mountain waterfall surrounded by spice and jackfruit plantations",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Top Sengattupatti Eco Viewpoint & Tree House Park",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Panoramic Eastern Ghats valley viewpoints and eco-tourism forest rest zone",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Kalrayan Hills",
+    "category": "Hill Station",
+    "district": "Kallakurichi",
+    "wikiTitle": "Kalrayan Hills",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Scenic Eastern Ghats mountain range featuring Periyar Falls, Megam Falls, Gomukhi Dam, and cool botanical gardens at Serapattu.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 410,
+    "avgTravelCostPerPerson": 540,
+    "spots": [
+      {
+        "spotName": "Periyar Waterfalls & Megam Waterfalls",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Experience two roaring mountain waterfalls plunging into rocky gorges in the Kalrayan range",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Pappanaickenpatti Dam & Serapattu Botanical Park",
+        "timeSlot": "12:00 PM – 02:00 PM",
+        "activity": "Hilltop children's park, herbal garden, and peaceful reservoir views",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Gomukhi Dam & Foothills Park (Kachirayapalayam)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Expansive dam at the foothills of Kalrayan Hills with sunset viewpoint and garden walk",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Sathuragiri & Pilavakkal",
+    "category": "Nature & Waterfalls",
+    "district": "Virudhunagar",
+    "wikiTitle": "Sathuragiri Hills",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Mystical Siddhar mountain range in the Western Ghats paired with Pilavakkal Dam eco-park and natural forest streams near Watrap.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Thaniparai Foothills & Sathuragiri Forest Trailhead",
+        "timeSlot": "07:00 AM – 10:30 AM",
+        "activity": "Sacred Western Ghats herbal forest base camp & mountain stream bath at Thaniparai",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Pilavakkal Periyar & Kovilar Dams",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Twin reservoirs framed by coconut palms and Western Ghats peaks with garden picnic areas",
+        "entryAndLocalCost": 110
+      },
+      {
+        "spotName": "Kalyana Theertham & Ayyanar Koil Forest Stream (Rajapalayam)",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Crystal-clear mountain river bathing spot and nature trail in the Rajapalayam hills",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Bodi Mettu & Kurangani Hills",
+    "category": "Hill Station",
+    "district": "Theni",
+    "wikiTitle": "Kurangani",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Spectacular 17-hairpin ghat road above Bodinayakanur offering sweeping views of the Theni valley, cardamom estates, and Kurangani mountain streams.",
+    "avgHotelPerPerson": 1200,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 680,
+    "spots": [
+      {
+        "spotName": "Bodi Mettu 17-Hairpin Ghat Viewpoint & Cardamom Estates",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Breathtaking cloud-kissed viewpoint overlooking Bodinayakanur town & spice plantations",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kurangani Foothills & Kottakudi Mountain River",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Scenic Western Ghats valley walk alongside boulder-strewn mountain streams & mango groves",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Sothuparai Dam & Kumbakkarai Falls (Periyakulam)",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Visit the high-arch masonry dam across Varaha river and Kumbakkarai foothills waterfall",
+        "entryAndLocalCost": 140
+      }
+    ]
+  },
+  {
+    "name": "Cumbum Valley & Suruli Falls",
+    "category": "Nature & Waterfalls",
+    "district": "Theni",
+    "wikiTitle": "Suruli Falls",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Fertile Cumbum Valley surrounded by the Western Ghats, famous for year-round Suruli Waterfalls, Panneer grape vineyards, and Vaigai Dam.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 660,
+    "spots": [
+      {
+        "spotName": "Suruli Waterfalls & Kailasanathar Cave",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Two-stage 150-foot herbal waterfall celebrated in ancient Tamil epic Silappathikaram",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Cumbum Panneer Grape Vineyards (Odaipatti)",
+        "timeSlot": "11:00 AM – 01:30 PM",
+        "activity": "Walk underneath lush overhead grape arbors and taste fresh GI-tagged Cumbum black grapes",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Vaigai Dam & Little Brindavan Gardens",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Stroll across the illuminated dam bridge, musical fountains & children's park",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Gudalur & Needle Rock (Nilgiris)",
+    "category": "Hill Station",
+    "district": "Nilgiris",
+    "wikiTitle": "Gudalur, Nilgiris",
+    "image": "/src/assets/images/tn_hill_station_tea_1790675388767.jpg",
+    "description": "Green gateway where Tamil Nadu, Kerala, and Karnataka meet, featuring the 360-degree Needle Rock Viewpoint, Frog Hill, and Nadugani Gene Pool forest.",
+    "avgHotelPerPerson": 1350,
+    "avgFoodPerDay": 520,
+    "avgTravelCostPerPerson": 750,
+    "spots": [
+      {
+        "spotName": "Needle Rock Viewpoint (Soochimalai)",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "360-degree cloud viewpoint overlooking Mudumalai forests and Gudalur tea valleys",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Frog Hill (Thavalai Malai) & O'Valley Tea Estates",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "View the natural frog-shaped mountain rock formation amidst sprawling green tea carpets",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Gene Pool Eco-Forest Garden (Nadugani)",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Guided eco-trail through rare Western Ghats orchids, ferns, bamboo bridges & viewpoints",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Avalanche & Emerald Lake",
+    "category": "Nature & Waterfalls",
+    "district": "Nilgiris",
+    "wikiTitle": "Avalanche Lake, Nilgiris",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Pristine high-altitude Nilgiri biosphere lakes 25 km from Ooty, surrounded by untouched shola forests, rhododendrons, and trout hatcheries.",
+    "avgHotelPerPerson": 1500,
+    "avgFoodPerDay": 550,
+    "avgTravelCostPerPerson": 780,
+    "spots": [
+      {
+        "spotName": "Avalanche Lake & Forest Department Eco Safari",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Crystal-clear mountain lake and forest jeep safari to Cauliflower Shola & Bhavani Amman temple",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Avalanche Trout Hatchery & Magnolia Trail",
+        "timeSlot": "11:45 AM – 01:00 PM",
+        "activity": "Visit the historic rainbow trout breeding center and high-altitude flower valley",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Emerald Lake & Silent Valley Tea Viewpoint",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Serene blue waters of Emerald Reservoir framed by rolling green tea slopes at sunset",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Pykara & Mukurthi (Nilgiris)",
+    "category": "Nature & Waterfalls",
+    "district": "Nilgiris",
+    "wikiTitle": "Pykara",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Scenic Nilgiri plateau route featuring cascading Pykara Waterfalls, speed-boating on Pykara Lake, Wenlock Downs grasslands, and Kamaraj Sagar Dam.",
+    "avgHotelPerPerson": 1450,
+    "avgFoodPerDay": 540,
+    "avgTravelCostPerPerson": 760,
+    "spots": [
+      {
+        "spotName": "Pykara Lake & TTDC Boat House",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Speed boat and motorboat cruise across the winding shola-fringed Pykara River reservoir",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Pykara Waterfalls",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "Walk through pine forests to view the sacred Toda river cascading over stepped granite rocks",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Wenlock Downs (9th Mile Shooting Spot) & Pine Forest",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Rolling emerald meadows and towering pine forest overlooking Kamaraj Sagar Dam",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Masinagudi & Moyar Canyon",
+    "category": "Nature & Waterfalls",
+    "district": "Nilgiris",
+    "wikiTitle": "Masinagudi",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Wild foothills of the Nilgiris bordering Mudumalai, renowned for the dramatic 260-meter-deep Moyar River Gorge, elephant corridors, and jungle lodges.",
+    "avgHotelPerPerson": 1400,
+    "avgFoodPerDay": 520,
+    "avgTravelCostPerPerson": 740,
+    "spots": [
+      {
+        "spotName": "Moyar River Gorge & Canyon Viewpoint",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Morning wildlife drive along the deep canyon separating Mudumalai and Bandipur reserves",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Maravakandy Dam & Bokkapuram Elephant Corridor",
+        "timeSlot": "10:00 AM – 12:30 PM",
+        "activity": "Spot spotted deer, peacocks, and wild elephants against the backdrop of the Blue Mountains",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Kalhatti Ghat Viewpoint & Vibhuthi Malai Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Panoramic views of the Sigur plateau from the base of the 36-hairpin Kalhatti ghat road",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Point Calimere (Kodiyakarai) & Vedaranyam",
+    "category": "Nature & Waterfalls",
+    "district": "Nagapattinam",
+    "wikiTitle": "Point Calimere Wildlife and Bird Sanctuary",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Ramsar coastal wetland cape where the Bay of Bengal turns into the Palk Strait, home to blackbucks, migratory flamingos, Chola lighthouse ruins, and Vedaranyam.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Point Calimere (Kodiyakarai) Wildlife & Flamingo Sanctuary",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Spot blackbuck antelope, feral horses, and thousands of flamingos across coastal mudflats",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ramar Padam, Chola Lighthouse Ruins & Kodiyakarai Beach",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Visit the highest point on the cape and the historic 1,000-year-old Chola brick lighthouse",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Vedaranyeswarar Temple & Salt Satyagraha Memorial (Vedaranyam)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Ancient Saptha Vidanga Shiva temple and historic 1930 Salt March freedom memorial",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Pichavaram Mangrove Forest",
+    "category": "Nature & Waterfalls",
+    "district": "Cuddalore",
+    "wikiTitle": "Pichavaram",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "One of the world's largest mangrove forests featuring over 1,100 hectares of water lanes, 44 green islands, and narrow canopy rowboat tunnels.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 520,
+    "spots": [
+      {
+        "spotName": "Pichavaram Mangrove Canopy Rowboat & Motorboat Safari",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Glide through narrow sunlit mangrove root tunnels and estuarine birdwatching channels",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Pichavaram Watchtower & Sandbar Island Beach",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Climb the watchtower for an aerial view of the 44 mangrove islands meeting the Bay of Bengal",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Porto Novo (Parangipettai) Marine Biology Museum & Estuary",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Explore coastal marine biodiversity exhibits and the Vellar River sea mouth",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Silver Beach & Fort St. David (Cuddalore)",
+    "category": "Beach",
+    "district": "Cuddalore",
+    "wikiTitle": "Silver Beach (India)",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "One of the longest and widest silver-sand beaches on the Coromandel Coast, separated from the town by a scenic backwater boating channel.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 480,
+    "spots": [
+      {
+        "spotName": "Silver Beach Promenade & Backwater Boating",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "Wide silver sand shoreline, lighthouse view, and calm Uppanar backwater boat ride",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Fort St. David Ruins & British Colonial Heritage (Devanampattinam)",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Explore the 17th-century coastal fort ruins where British and French forces clashed",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Tiruvahindrapuram Devanathaswamy Temple & Oushadagiri Hill",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Revered Divya Desam temple and Hayagriva hillock shrine overlooking the Gadilam River",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Pulicat Lake (Pazhaverkadu)",
+    "category": "Nature & Waterfalls",
+    "district": "Tiruvallur",
+    "wikiTitle": "Pulicat Lake",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "India's second-largest brackish water lagoon north of Chennai, famous for wintering flamingos, barrier island sandbars, and 17th-century Dutch heritage.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 420,
+    "spots": [
+      {
+        "spotName": "Pulicat Lagoon Flamingo Boat Ride & Barrier Island Sandbar",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Boat across the serene lagoon where lake waters meet the Bay of Bengal and spot flamingos & pelicans",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Historic Dutch Cemetery (1656) & Fort Geldria Ruins",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Admire carved 17th-century Dutch VOC tombstones, obelisks & colonial port history",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Pulicat Lighthouse & Kattupalli Coastal View",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Coastal breeze and panoramic views of the Coromandel coastline and fishing harbor",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Vedanthangal & Karikili Bird Sanctuary",
+    "category": "Nature & Waterfalls",
+    "district": "Chengalpattu",
+    "wikiTitle": "Vedanthangal Bird Sanctuary",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "India's oldest community-protected waterbird sanctuary where over 40,000 migratory painted storks, pelicans, and spoonbills nest in submerged Barringtonia trees.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 420,
+    "spots": [
+      {
+        "spotName": "Vedanthangal Bird Sanctuary Bund Walk & Watchtower",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Observe thousands of nesting pelicans, painted storks, ibises & herons through binoculars",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Karikili Bird Sanctuary (Wetland Habitat)",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Ramsar wetland sanctuary just 9 km from Vedanthangal where waterbirds forage",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Madurantakam Eri Katha Ramar Temple & Tank",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Historic temple beside the massive Madurantakam lake with British-era inscription",
+        "entryAndLocalCost": 80
+      }
+    ]
+  },
+  {
+    "name": "Sadras Dutch Fort & Thirukazhukundram",
+    "category": "Heritage",
+    "district": "Chengalpattu",
+    "wikiTitle": "Sadras",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "17th-century Dutch East India Company red-brick fortress on the Coromandel shore near Kalpakkam, paired with the ancient Eagle Hill temple of Thirukazhukundram.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 430,
+    "spots": [
+      {
+        "spotName": "Sadras 17th-Century Dutch Fort & Carved Cemetery",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Explore ASI-protected red-brick bastions, granaries & heraldic Dutch tombstones",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Sadras Coastal Beach & Meyyur Fishing Village",
+        "timeSlot": "11:15 AM – 01:00 PM",
+        "activity": "Peaceful uncrowded East Coast beach walk beside the historic fort ramparts",
+        "entryAndLocalCost": 60
+      },
+      {
+        "spotName": "Thirukazhukundram Vedagiriswarar Hill Temple (Pakshi Theertham)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Climb 500 granite steps to the Pallava rock-cut hill temple and view the 12-year Conch tank",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "DakshinaChitra & Muttukadu (ECR)",
+    "category": "Heritage",
+    "district": "Chengalpattu",
+    "wikiTitle": "DakshinaChitra",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "East Coast Road cultural corridor combining DakshinaChitra living South Indian heritage museum, Muttukadu backwater boating, and Madras Crocodile Bank.",
+    "avgHotelPerPerson": 1350,
+    "avgFoodPerDay": 520,
+    "avgTravelCostPerPerson": 400,
+    "spots": [
+      {
+        "spotName": "DakshinaChitra Living Heritage Museum",
+        "timeSlot": "09:30 AM – 12:30 PM",
+        "activity": "Tour authentic reconstructed Tamil, Kerala, Andhra & Karnataka heritage homes, pottery & glassblowing",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Muttukadu Boat House (TTDC Backwaters)",
+        "timeSlot": "01:30 PM – 03:30 PM",
+        "activity": "Speed boat, rowboat, and water scooter rides across the scenic Muttukadu lagoon",
+        "entryAndLocalCost": 220
+      },
+      {
+        "spotName": "Madras Crocodile Bank Trust & Herpetology Center",
+        "timeSlot": "03:45 PM – 05:45 PM",
+        "activity": "See over 14 species of crocodiles, gharials, and turtles in lush coastal enclosures",
+        "entryAndLocalCost": 180
+      }
+    ]
+  },
+  {
+    "name": "Mylapore & San Thome (Chennai)",
+    "category": "Temple",
+    "district": "Chennai",
+    "wikiTitle": "Kapaleeshwarar Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Chennai's oldest cultural neighborhood featuring the 7th-century Dravidian Kapaleeshwarar Temple, San Thome Cathedral Basilica, and Ramakrishna Math.",
+    "avgHotelPerPerson": 1300,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 350,
+    "spots": [
+      {
+        "spotName": "Arulmigu Kapaleeshwarar Temple & Mylapore Tank",
+        "timeSlot": "06:30 AM – 09:00 AM",
+        "activity": "Darshan at the iconic 120-ft sculpted gopuram shrine celebrated in Nayanmar Tevaram hymns",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "San Thome Cathedral Basilica & Museum",
+        "timeSlot": "09:30 AM – 11:30 AM",
+        "activity": "Visit the soaring Neo-Gothic white basilica built over the tomb of St. Thomas the Apostle",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Ramakrishna Math Universal Temple & Luz Church",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Peaceful meditation hall, heritage library, and Mylapore filter coffee & agraharam walk",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Fort St. George & Egmore Museum",
+    "category": "Heritage",
+    "district": "Chennai",
+    "wikiTitle": "Fort St. George, India",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Historic 1644 British fortress housing India's oldest Anglican church and the Egmore Government Museum famed for world-class Chola bronze sculptures.",
+    "avgHotelPerPerson": 1350,
+    "avgFoodPerDay": 520,
+    "avgTravelCostPerPerson": 350,
+    "spots": [
+      {
+        "spotName": "Fort St. George Museum & St. Mary's Church (1680)",
+        "timeSlot": "09:30 AM – 12:00 PM",
+        "activity": "Explore colonial-era artifacts, coins, portraits, and India's first tricolor flag after independence",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Egmore Government Museum & Chola Bronze Gallery",
+        "timeSlot": "01:30 PM – 04:00 PM",
+        "activity": "Marvel at the world's finest collection of 10th-century Chola Nataraja bronzes & Indo-Saracenic Art Gallery",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Valluvar Kottam Stone Chariot Monument",
+        "timeSlot": "04:30 PM – 06:30 PM",
+        "activity": "Monumental Thiruvarur-style stone chariot inscribed with all 1,330 couplets of Thirukkural",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Besant Nagar Elliot's Beach & Guindy Park",
+    "category": "Beach",
+    "district": "Chennai",
+    "wikiTitle": "Edward Elliot's Beach",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Vibrant South Chennai seaside promenade featuring Karl Schmidt Memorial, Ashtalakshmi coastal temple, and Guindy National Park.",
+    "avgHotelPerPerson": 1300,
+    "avgFoodPerDay": 500,
+    "avgTravelCostPerPerson": 350,
+    "spots": [
+      {
+        "spotName": "Guindy National Park & Children's Nature Park",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "One of India's smallest national parks inside a city, home to blackbucks, spotted deer & snake park",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Ashtalakshmi Coastal Temple & Annai Velankanni Shrine",
+        "timeSlot": "03:30 PM – 05:00 PM",
+        "activity": "Multi-tiered seaside temple dedicated to the eight forms of Goddess Lakshmi overlooking the waves",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Besant Nagar Elliot's Beach & Karl Schmidt Memorial",
+        "timeSlot": "05:00 PM – 07:00 PM",
+        "activity": "Evening sea breeze stroll along the clean sandy shore and heritage Dutch sailor memorial",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Vandalur Zoo (Arignar Anna Zoological Park)",
+    "category": "Nature & Waterfalls",
+    "district": "Chengalpattu",
+    "wikiTitle": "Arignar Anna Zoological Park",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "One of South Asia's largest zoological gardens spanning 1,490 acres with lion and deer safaris, nocturnal animal house, and butterfly conservatory.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 380,
+    "spots": [
+      {
+        "spotName": "Vandalur Lion Safari & Battery Vehicle Zoo Tour",
+        "timeSlot": "09:00 AM – 01:00 PM",
+        "activity": "See white tigers, Asiatic lions, elephants, giraffes & chimpanzees in naturalistic forest enclosures",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Walk-Through Aviary, Butterfly Park & Nocturnal House",
+        "timeSlot": "01:30 PM – 03:30 PM",
+        "activity": "Explore tropical birds, reptile gardens, and interactive biodiversity interpretation center",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Thiruporur Kandaswamy Murugan Temple",
+        "timeSlot": "04:30 PM – 06:30 PM",
+        "activity": "Ancient Pallava-era Murugan temple with swayambu palm-stem deity and large Saravana Poigai tank",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Thiruparappu Falls & Mathur Aqueduct",
+    "category": "Nature & Waterfalls",
+    "district": "Kanyakumari",
+    "wikiTitle": "Thirparappu",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Lush Kanyakumari green belt featuring the 50-foot cascading Thiruparappu Waterfalls, Pechiparai Reservoir, and Asia's tallest Mathur Hanging Trough Bridge.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 780,
+    "spots": [
+      {
+        "spotName": "Thiruparappu Waterfalls & Mahadevar Temple",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Enjoy a refreshing bath in the Kodayar River waterfall, pedal boating & 9th-century Shiva shrine",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Mathur Aqueduct (Hanging Trough Bridge)",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Walk across the 115-foot-high, 1-km-long engineering marvel above the Pahrali River & rubber estates",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Pechiparai Dam & Western Ghats Reservoir",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Scenic reservoir built at the foothills of the Kodayar hills surrounded by dense tropical forest",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Padmanabhapuram Palace & Udayagiri Fort",
+    "category": "Heritage",
+    "district": "Kanyakumari",
+    "wikiTitle": "Padmanabhapuram Palace",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Asia's largest wooden palace complex built in 1601 with intricate rosewood carvings and Belgian mirrors, paired with historic Udayagiri Fort.",
+    "avgHotelPerPerson": 1150,
+    "avgFoodPerDay": 470,
+    "avgTravelCostPerPerson": 780,
+    "spots": [
+      {
+        "spotName": "Padmanabhapuram Wooden Royal Palace Complex",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Marvel at the Mantrasala council chamber, gleaming black polished floors, clock tower & murals",
+        "entryAndLocalCost": 150
+      },
+      {
+        "spotName": "Udayagiri Fort & Biodiversity Park",
+        "timeSlot": "01:30 PM – 03:30 PM",
+        "activity": "18th-century granite fort where Eustachius De Lannoy cast cannons, now a shaded deer & bird park",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thiruvattar Adikesava Perumal Temple",
+        "timeSlot": "04:00 PM – 06:30 PM",
+        "activity": "Ancient Divya Desam temple surrounded by three rivers with a 22-foot reclining Lord Vishnu idol",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Vattakottai Fort & Muttom Beach",
+    "category": "Beach",
+    "district": "Kanyakumari",
+    "wikiTitle": "Vattakottai Fort",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "18th-century coastal granite fortress overlooking both the Bay of Bengal and Western Ghats, alongside the dramatic boulder cliffs of Muttom Beach.",
+    "avgHotelPerPerson": 1150,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 780,
+    "spots": [
+      {
+        "spotName": "Vattakottai Seaside Granite Fort & Black Sand Beach",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Walk atop the circular coastal fort ramparts where ocean waves meet the Western Ghats backdrop",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Chothavilai & Sanguthurai Beaches",
+        "timeSlot": "11:00 AM – 01:00 PM",
+        "activity": "Relax along one of Kanyakumari district's longest white-sand coastal stretches and giant conch monument",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Muttom Rock Cliffs & 100-Year-Old Lighthouse Sunset",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Spectacular Arabian Sea sunset over wave-sculpted granite boulders and historic colonial lighthouse",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Suchindram & Nagercoil Temples",
+    "category": "Temple",
+    "district": "Kanyakumari",
+    "wikiTitle": "Thanumalayan Temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Architectural marvel dedicated to the Trinity (Shiva, Vishnu, Brahma) featuring four musical stone pillars and a 22-foot monolithic Hanuman statue.",
+    "avgHotelPerPerson": 1100,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 760,
+    "spots": [
+      {
+        "spotName": "Suchindram Thanumalayan Temple & Musical Pillars",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Experience the 18-foot musical granite pillars, Alankara Mandapam & 22-ft single-stone Anjaneyar",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Nagercoil Nagaraja Temple",
+        "timeSlot": "10:00 AM – 12:00 PM",
+        "activity": "Historic temple that gave Nagercoil its name, featuring sacred sand prasadam and Jain carvings",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kanyakumari Eco Park & Tsunami Memorial Shore",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Botanical garden walk, bamboo groves, and coastal sunset view near Cape Comorin",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Papanasam & Agasthiyar Falls",
+    "category": "Nature & Waterfalls",
+    "district": "Tirunelveli",
+    "wikiTitle": "Agasthiyar Falls",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Sacred foothills where the perennial Thamirabarani River plunges down Agasthiyar Falls inside the Kalakkad Mundanthurai Tiger Reserve.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Agasthiyar Falls (Papanasam Perennial Waterfall)",
+        "timeSlot": "07:30 AM – 10:30 AM",
+        "activity": "Year-round herbal waterfall bath where Sage Agasthiyar received the cosmic wedding vision of Shiva",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Papanasanathar & Ulagammai Temple (Kailasa Kshetram)",
+        "timeSlot": "10:45 AM – 12:30 PM",
+        "activity": "Ancient riverside Shiva temple on the banks of the fish-filled Thamirabarani ghats",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Karaiyar Dam (Papanasam Upper Dam) & Servalar Reservoir",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Forest drive through Mundanthurai Tiger Reserve to the scenic mountain dam between two hills",
+        "entryAndLocalCost": 150
+      }
+    ]
+  },
+  {
+    "name": "Manapad Beach & Nava Tirupati",
+    "category": "Beach",
+    "district": "Thoothukudi",
+    "wikiTitle": "Manapad",
+    "image": "/src/assets/images/tn_coastal_beach_shore_1790675402201.jpg",
+    "description": "Dramatic headland peninsula on the Gulf of Mannar where waves crash on three sides, famous for its clifftop Holy Cross Church, surfing lagoon, and Nava Tirupati.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 700,
+    "spots": [
+      {
+        "spotName": "Manapad Cliff Holy Cross Church (1581) & Lighthouse",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "Walk up the golden sand cliff overlooking the turquoise surfing bay and St. Francis Xavier's cave",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kulasekarapattinam Mutharamman Temple & Beach",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Coastal town famous for India's grandest coastal Dasara festival and palm-lined beach",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Alwarthirunagari & Srivaikuntam (Nava Tirupati Temples)",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Visit the birthplace of Nammalvar with its ancient tamarind tree and sculpted Nayak mandapams",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Kazhugumalai (Vettuvan Koil)",
+    "category": "Heritage",
+    "district": "Thoothukudi",
+    "wikiTitle": "Kalugumalai Jain Beds",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Known as the 'Ellora of South India', featuring the 8th-century Pandya monolithic Vettuvan Koil carved top-down from a single granite hill and Jain rock reliefs.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 400,
+    "avgTravelCostPerPerson": 640,
+    "spots": [
+      {
+        "spotName": "Vettuvan Koil (8th-Century Pandya Monolithic Temple)",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Marvel at the unfinished Shiva temple carved out of solid granite rock with intricate ganas & sculptures",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kalugumalai Jain Rock-Cut Reliefs & Inscriptions",
+        "timeSlot": "10:45 AM – 12:30 PM",
+        "activity": "Over 150 intricately carved Tirthankara bas-reliefs and Vatteluttu inscriptions on the hill face",
+        "entryAndLocalCost": 60
+      },
+      {
+        "spotName": "Kazhugachalamoorthy Rock-Cut Cave Murugan Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Foothill cave shrine where Lord Murugan faces southwest alongside peacock and sacred tank",
+        "entryAndLocalCost": 80
+      }
+    ]
+  },
+  {
+    "name": "Panchalankurichi & Ettayapuram",
+    "category": "Heritage",
+    "district": "Thoothukudi",
+    "wikiTitle": "Panchalankurichi",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Patriotic heritage circuit honoring freedom fighter Veerapandiya Kattabomman's fort, Mahakavi Subramania Bharathiyar's birthplace, and V.O. Chidambaram Pillai.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Panchalankurichi Veerapandiya Kattabomman Memorial Fort",
+        "timeSlot": "09:00 AM – 11:30 AM",
+        "activity": "Tour the reconstructed fort gallery depicting Kattabomman's heroic resistance and Jakkammal Devi shrine",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Ettayapuram Mahakavi Bharathiyar Illam & Palace",
+        "timeSlot": "12:00 PM – 02:00 PM",
+        "activity": "Visit the ancestral house of Tamil poet Subramania Bharathi, Ettayapuram Zamin Palace & Umaru Pulavar Dargah",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Ottapidaram V.O. Chidambaram Pillai Memorial & Kayathar",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Explore the birthplace of 'Kappalottiya Tamizhan' V.O.C. and historic freedom struggle exhibits",
+        "entryAndLocalCost": 80
+      }
+    ]
+  },
+  {
+    "name": "Sankarankovil (Sankaranayinarkoil)",
+    "category": "Temple",
+    "district": "Tenkasi",
+    "wikiTitle": "Sankaranayinarkoil",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Famous 11th-century Ukkira Pandya temple enshrining Harihara (Sankaranarayanar — half Shiva, half Vishnu) and Goddess Gomathi Amman.",
+    "avgHotelPerPerson": 900,
+    "avgFoodPerDay": 410,
+    "avgTravelCostPerPerson": 650,
+    "spots": [
+      {
+        "spotName": "Arulmigu Sankaranarayanar & Gomathi Amman Temple",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Darshan of the unique Harihara deity uniting Shaivism & Vaishnavism and the sacred Naga Sunai tank",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Karivalamvandanallur Palvannanathar Temple",
+        "timeSlot": "10:15 AM – 12:15 PM",
+        "activity": "Ancient Pandya-era Pancha Sthalam temple on the route toward Tenkasi",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Gundar Dam & Western Ghats Foothills (Sengottai)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic mountain reservoir surrounded by spice hills and seasonal cascades",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Tenkasi Kasi Viswanathar & Old Courtallam",
+    "category": "Temple",
+    "district": "Tenkasi",
+    "wikiTitle": "Kasi Viswanathar temple, Tenkasi",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "15th-century Pandya royal temple crowned by a 180-foot Rajagopuram with life-size sculpted stone pillars, right beside Old Courtallam waterfalls.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 660,
+    "spots": [
+      {
+        "spotName": "Tenkasi Kasi Viswanathar Temple & Sculpted Mandapam",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Admire the wind-channeling entrance gopuram and exquisite Nayak-Pandya monolithic statues",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Old Courtallam (Pazhaya Courtallam) Waterfalls",
+        "timeSlot": "10:00 AM – 01:00 PM",
+        "activity": "200-foot stepped rock waterfall fed by the Chittar River with safe bathing pools",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Thirumalapuram Rock-Cut Cave Temple & Eco Park",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Early Pandya rock-cut cave temple with ancient frescoes and landscaped Courtallam Eco Park",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Thirumayam Fort & Avudaiyarkoil",
+    "category": "Heritage",
+    "district": "Pudukkottai",
+    "wikiTitle": "Thirumayam Fort",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "40-acre 17th-century ring fortress built by Sethupathi Raja over 8th-century rock-cut Shiva and Vishnu cave temples, paired with Avudaiyarkoil.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 560,
+    "spots": [
+      {
+        "spotName": "Thirumayam Hill Fort & cannons",
+        "timeSlot": "08:00 AM – 10:30 AM",
+        "activity": "Climb to the concentric granite fort bastions, rock moat, and British-era cannon emplacements",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Sathyagiriswarar & Sathyamoorthy Perumal Rock-Cut Temples",
+        "timeSlot": "10:45 AM – 12:30 PM",
+        "activity": "Twin 8th-century Pallava-Pandya cave shrines carved into the base of Thirumayam Fort rock",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Avudaiyarkoil Athmanathaswamy Temple (Zephyr Stone Roof)",
+        "timeSlot": "03:00 PM – 06:00 PM",
+        "activity": "Masterpiece of Tamil stone architecture where Saint Manickavasagar built the paper-thin granite roof eaves",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Viralimalai Peacock Sanctuary & Kodumbalur",
+    "category": "Temple",
+    "district": "Pudukkottai",
+    "wikiTitle": "Viralimalai Murugan temple",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Rocky hillock shrine of Lord Shanmuganathar surrounded by hundreds of wild peacocks, near the 9th-century early Chola temples of Kodumbalur.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 540,
+    "spots": [
+      {
+        "spotName": "Viralimalai Shanmuganathar Hill Temple & Peacock Sanctuary",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Climb 207 stone steps shaded by floral trees as wild peacocks dance around the hillock",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kodumbalur Moovar Koil (Early Chola Stone Temples)",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Explore the 9th-century Irukkuvel-Chola structural stone temples and Muchukundeswarar shrine",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Malaiyadipatti Rock-Cut Cave Temples",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Ancient Mutharaiyar-Pallava rock-cut Shiva and Ranganatha cave temples with painted reliefs",
+        "entryAndLocalCost": 80
+      }
+    ]
+  },
+  {
+    "name": "Bhavanisagar Dam & Kodiveri Falls",
+    "category": "Nature & Waterfalls",
+    "district": "Erode",
+    "wikiTitle": "Bhavanisagar Dam",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "One of the world's largest earthen dams built across the Bhavani River paired with the curtain-like Kodiveri Weir waterfalls and coracle rides.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Kodiveri Dam Waterfalls & Bhavani River Coracle Ride",
+        "timeSlot": "08:00 AM – 11:00 AM",
+        "activity": "Safe family bathing under the wide stone-check-dam waterfall and traditional round parisal boat ride",
+        "entryAndLocalCost": 160
+      },
+      {
+        "spotName": "Bhavanisagar Dam & Jubilee Park",
+        "timeSlot": "11:45 AM – 02:00 PM",
+        "activity": "Walk through the 8-km earthen dam gardens at the confluence of Bhavani and Moyar rivers",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Bannari Mariamman Temple (Sathyamangalam Foothills)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Revered forest-edge Amman temple at the base of the Sathyamangalam ghats",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Sathyamangalam Tiger Reserve & Dhimbam",
+    "category": "Nature & Waterfalls",
+    "district": "Erode",
+    "wikiTitle": "Sathyamangalam Tiger Reserve",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Critical wildlife corridor linking the Western and Eastern Ghats, famous for the thrilling 27-hairpin Dhimbam ghat drive, elephants, and Hasanur forests.",
+    "avgHotelPerPerson": 1200,
+    "avgFoodPerDay": 480,
+    "avgTravelCostPerPerson": 620,
+    "spots": [
+      {
+        "spotName": "Dhimbam 27 Hairpin Bends & Valley Viewpoint",
+        "timeSlot": "07:30 AM – 10:00 AM",
+        "activity": "Scenic mountain ghat drive with sweeping views of Bhavanisagar reservoir and Moyar valley",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Hasanur Eco-Tourism Center & Jungle Safari",
+        "timeSlot": "10:30 AM – 01:30 PM",
+        "activity": "Forest department safari spotting elephants, gaur, sambar deer & Nilgiri birds",
+        "entryAndLocalCost": 250
+      },
+      {
+        "spotName": "Thalamalai Reserve Forest Plateau View",
+        "timeSlot": "03:00 PM – 05:30 PM",
+        "activity": "Cool high-altitude forest plateau drive and ancient Thalamalai Perumal temple",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Chennimalai & Vellode Bird Sanctuary",
+    "category": "Temple",
+    "district": "Erode",
+    "wikiTitle": "Vellode Bird Sanctuary",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Kongu Nadu heritage route combining the hilltop Chennimalai Murugan Temple, handloom weaving center, and the Ramsar-listed Vellode Bird Sanctuary.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 560,
+    "spots": [
+      {
+        "spotName": "Chennimalai Subramanya Swamy Hill Temple (1,320 Steps)",
+        "timeSlot": "07:00 AM – 10:00 AM",
+        "activity": "Ascend by ghat road or steps to the historic hill temple where Kanda Sashti Kavacham was first sung",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vellode Bird Sanctuary (Perundurai Lake)",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Ramsar wetland sanctuary hosting painted storks, pelicans, teal & darter birds",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kodumudi Magudeswarar Temple (Cauvery River Bank)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Rare Trimurti temple enshrining Shiva, Vishnu (Veeranarayana Perumal) & Brahma on the Cauvery bank",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Mettur Dam & Taramangalam (Salem)",
+    "category": "Nature & Waterfalls",
+    "district": "Salem",
+    "wikiTitle": "Mettur Dam",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "One of India's largest and oldest stone masonry dams across the Cauvery River (Stanley Reservoir), paired with Taramangalam's intricate stone sculptures.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 520,
+    "spots": [
+      {
+        "spotName": "Mettur Dam (Stanley Reservoir) & Ellis Park",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "View the 1,700-meter-long dam across the Cauvery gorge, Muniappan statue & landscaped Ellis Park",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Taramangalam Kailasanathar Temple (Stone Chain & Yali Marvel)",
+        "timeSlot": "12:15 PM – 02:15 PM",
+        "activity": "Marvel at rotating stone lotus rings, stone chains & Rati-Manmatha sculptures",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Kurumbapatti Zoological Park (Shevaroy Foothills)",
+        "timeSlot": "03:30 PM – 05:45 PM",
+        "activity": "Shaded foothills nature park at the base of Yercaud hills with deer, peacocks & bamboo trails",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Tiruchengode Ardhanareeswarar Hill",
+    "category": "Temple",
+    "district": "Namakkal",
+    "wikiTitle": "Ardhanareeswarar temple, Tiruchengode",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Ancient red-rock hill shrine (Nagagiri) with 1,200 carved steps and a 60-foot stone serpent, enshrining the half-male, half-female Ardhanareeswarar form of Shiva.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 540,
+    "spots": [
+      {
+        "spotName": "Tiruchengode Ardhanareeswarar & Sengottuvelavar Hill Temple",
+        "timeSlot": "07:00 AM – 10:30 AM",
+        "activity": "Drive or climb the 650-foot red hill past the giant 60-ft carved five-headed Naga sculpture",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kailasanathar Town Temple (Tiruchengode Foothills)",
+        "timeSlot": "11:00 AM – 12:30 PM",
+        "activity": "Historic Chola-Nayak temple in the heart of Tiruchengode with sculpted mandapams",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Jedarpalayam Dam & Cauvery River Park",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Peaceful barrage across the Cauvery River with children's park and coracle boating",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Bhavani Kooduthurai & Uratchikottai",
+    "category": "Temple",
+    "district": "Erode",
+    "wikiTitle": "Sangameswarar Temple, Bhavani",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Known as the 'Triveni Sangam of the South' where the Cauvery, Bhavani, and mystic Amudha rivers unite around the island shrine of Sangameswarar.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 550,
+    "spots": [
+      {
+        "spotName": "Bhavani Sangameswarar Temple & Kooduthurai River Confluence",
+        "timeSlot": "06:30 AM – 09:30 AM",
+        "activity": "Sacred bath and darshan at the confluence of Cauvery and Bhavani rivers",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Uratchikottai Vedagiri Hill Bala Dhandayuthapani Temple",
+        "timeSlot": "10:15 AM – 12:30 PM",
+        "activity": "Hilltop Murugan shrine offering 360-degree views of both the Cauvery and Bhavani river valleys",
+        "entryAndLocalCost": 90
+      },
+      {
+        "spotName": "Bhavani Jamakkalam Handloom Weaving Street",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Explore GI-tagged colorful Bhavani Jamakkalam carpet weaving workshops",
+        "entryAndLocalCost": 120
+      }
+    ]
+  },
+  {
+    "name": "Sathanur Dam & Tirukoilur",
+    "category": "Nature & Waterfalls",
+    "district": "Tiruvannamalai",
+    "wikiTitle": "Sathanur Dam",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Major dam across the Thenpennai River nestled in the Chennakesava Hills, famous for its terraced cinema gardens, crocodile farm, and nearby Tirukoilur.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 420,
+    "avgTravelCostPerPerson": 480,
+    "spots": [
+      {
+        "spotName": "Sathanur Dam Ornamental Gardens & Crocodile Park",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Stroll through manicured gardens, statues, swimming pool park & mugger crocodile enclosure",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Tirukoilur Ulagalantha Perumal Temple (192-ft Gopuram)",
+        "timeSlot": "12:15 PM – 02:00 PM",
+        "activity": "Ancient Divya Desam where the First Three Alwars met and composed the earliest Prabandham hymns",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Kabilar Kundru Rock Island (Thenpennai River)",
+        "timeSlot": "03:30 PM – 05:30 PM",
+        "activity": "Historic Sangam-era rock monument in the middle of the Ponnaiyar River honoring poet Kabilar",
+        "entryAndLocalCost": 80
+      }
+    ]
+  },
+  {
+    "name": "Amirthi Zoo & Jalagamparai Falls",
+    "category": "Nature & Waterfalls",
+    "district": "Vellore",
+    "wikiTitle": "Amirthi Zoological Park",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Lush Javadi Hills foothills nature circuit featuring the Amirthi River waterfall and mini zoo alongside the scenic Jalagamparai Waterfalls near Tirupattur.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 480,
+    "spots": [
+      {
+        "spotName": "Amirthi Zoological Park & Forest Waterfall",
+        "timeSlot": "08:30 AM – 11:30 AM",
+        "activity": "Trek 1 km along the forest stream to the seasonal waterfall and visit spotted deer & bird enclosures",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Virinchipuram Margabandeeswarar Temple (Simha Theertham)",
+        "timeSlot": "12:15 PM – 02:00 PM",
+        "activity": "Chola-Vijayanagara architectural gem famous for its Time-Indicating Stone Sundial and Nandi",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Jalagamparai Waterfalls & Eswaran Koil (Yelagiri Foothills)",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Attaru River cascading down the outer slopes of Yelagiri Hills with a Lingam-shaped temple",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Krishnagiri Dam & Rayakottai Fort",
+    "category": "Heritage",
+    "district": "Krishnagiri",
+    "wikiTitle": "Krishnagiri Dam",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "Land of monolithic hill forts (Baramahal) featuring the scenic KRP Dam gardens across the Thenpennai River, Krishnagiri Fort, and Rayakottai Fort.",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 520,
+    "spots": [
+      {
+        "spotName": "Krishnagiri Reservoir Project (KRP Dam) & Rose Park",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Relax in the illuminated fountains, deer park, and lakeside gardens below the granite hills",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Krishnagiri Hill Fort & Syed Basha Mountains",
+        "timeSlot": "11:30 AM – 01:30 PM",
+        "activity": "Explore the historic Baramahal fortress built by Vijayanagara rulers and Tipu Sultan",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Rayakottai Monolithic Hill Fort Viewpoint",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Scenic evening hike up the granite steps of Rayakottai Fort for sunset views across the plateau",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Keeladi Heritage Museum & Thirupuvanam",
+    "category": "Heritage",
+    "district": "Sivaganga",
+    "wikiTitle": "Keezhadi",
+    "image": "/src/assets/images/tn_heritage_palace_fort_1790675413968.jpg",
+    "description": "World-renowned Vaigai River civilization site showcasing 2,600-year-old Sangam-era urban artifacts in the Chettinad-style Keeladi Museum.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 460,
+    "avgTravelCostPerPerson": 600,
+    "spots": [
+      {
+        "spotName": "Keeladi Heritage Museum (Sangam Era Archaeological Gallery)",
+        "timeSlot": "09:00 AM – 12:00 PM",
+        "activity": "Explore 6th-century BCE Tamil-Brahmi pottery, carnelian beads, ring wells, dice & weaving spindles",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Keeladi Open-Air Excavation Trench & Konthagai Site",
+        "timeSlot": "12:15 PM – 01:45 PM",
+        "activity": "View the actual brick structures and terracotta water pipelines unearthed along the Vaigai valley",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Thirupuvanam Pushpavananathar Temple & Silk Handlooms",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Ancient Paadal Petra Sthalam on the Vaigai bank and famous Thirupuvanam pure silk saree weavers",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Sikkal, Nagore & Ettukudi",
+    "category": "Temple",
+    "district": "Nagapattinam",
+    "wikiTitle": "Nagore Dargah",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Harmonious coastal pilgrimage circuit featuring Sikkal Singaravelavar Temple, the 500-year-old Nagore Dargah with five minarets, and Ettukudi Murugan.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Sikkal Navaneetheswarar & Singaravelavar Temple",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Sacred Kanda Sashti shrine where Lord Murugan received the Vel spear from Goddess Parvati",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Historic Nagore Dargah & 131-ft Sahib Minara",
+        "timeSlot": "10:15 AM – 12:15 PM",
+        "activity": "Visit the 16th-century shrine of Shahul Hamid revered by people of all faiths and its silver doors",
+        "entryAndLocalCost": 80
+      },
+      {
+        "spotName": "Ettukudi Subramanya Swamy Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Admire the masterpiece monolithic stone peacock where the entire statue rests solely on the bird's legs",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Mannargudi, Tiruvarur & Vaduvur",
+    "category": "Temple",
+    "district": "Tiruvarur",
+    "wikiTitle": "Rajagopalaswamy Temple, Mannargudi",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Heart of the Chola delta featuring Mannargudi Rajagopalaswamy Temple (Dakshina Dwarka with its 23-acre tank), Tiruvarur Thyagaraja Temple, and Vaduvur Sanctuary.",
+    "avgHotelPerPerson": 950,
+    "avgFoodPerDay": 430,
+    "avgTravelCostPerPerson": 560,
+    "spots": [
+      {
+        "spotName": "Mannargudi Rajagopalaswamy Temple & Haridra Nadhi Tank",
+        "timeSlot": "07:00 AM – 09:45 AM",
+        "activity": "Explore 'Dakshina Dwarka' and India's largest 23-acre temple tank (1,158 ft × 837 ft)",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Vaduvur Bird Sanctuary & Kothandaramaswamy Temple",
+        "timeSlot": "10:30 AM – 12:30 PM",
+        "activity": "Spot migratory waterbirds around the lush Vaduvur tank and visit the famous Rama shrine",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Tiruvarur Thyagaraja Swamy Temple, Kamalalayam & Aziya Ther",
+        "timeSlot": "03:30 PM – 06:30 PM",
+        "activity": "Birthplace of the Carnatic Music Trinity, 30-acre Kamalalayam tank & Asia's largest temple chariot",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Thirunageswaram, Uppiliappan & Alangudi",
+    "category": "Temple",
+    "district": "Tiruvarur",
+    "wikiTitle": "Thirunageswaram",
+    "image": "/src/assets/images/tn_temple_architecture_1790675369385.jpg",
+    "description": "Revered Navagraha and Divya Desam temple circuit near Kumbakonam-Tiruvarur featuring Thirunageswaram (Rahu), Uppiliappan Koil, and Alangudi (Guru).",
+    "avgHotelPerPerson": 1000,
+    "avgFoodPerDay": 440,
+    "avgTravelCostPerPerson": 560,
+    "spots": [
+      {
+        "spotName": "Thirunageswaram Naganathaswamy (Rahu Navagraha) Temple",
+        "timeSlot": "07:00 AM – 09:30 AM",
+        "activity": "Famous Rahu Sthalam known for the miracle of milk turning blue during Paal Abhishekam",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Oppiliappan (Uppiliappan) Venkatachalapathy Perumal Temple",
+        "timeSlot": "10:00 AM – 12:15 PM",
+        "activity": "Ancient Divya Desam known as South Tirupati where all temple prasadam is cooked completely without salt",
+        "entryAndLocalCost": 100
+      },
+      {
+        "spotName": "Alangudi Apatsahayesvarar (Guru / Jupiter) Navagraha Temple",
+        "timeSlot": "03:30 PM – 06:00 PM",
+        "activity": "Sacred Dakshinamurthy (Guru Bhagavan) shrine surrounded by three rivers in Tiruvarur district",
+        "entryAndLocalCost": 100
+      }
+    ]
+  },
+  {
+    "name": "Amaravathi Dam & Thirumoorthy Hills",
+    "category": "Nature & Waterfalls",
+    "district": "Tiruppur",
+    "wikiTitle": "Amaravathi Dam",
+    "image": "/src/assets/images/tn_waterfalls_nature_1790675426491.jpg",
+    "description": "Scenic Anamalai foothills getaway near Udumalpet combining the steep-stepped Amaravathi Dam viewpoint, crocodile park, and Panchalinga Falls at Thirumoorthy Hills.",
+    "avgHotelPerPerson": 1050,
+    "avgFoodPerDay": 450,
+    "avgTravelCostPerPerson": 580,
+    "spots": [
+      {
+        "spotName": "Amaravathi Dam Viewpoint & Mugger Crocodile Park",
+        "timeSlot": "08:30 AM – 11:00 AM",
+        "activity": "Climb the dam steps for sweeping views of the Anamalai & Palani hills and visit South India's largest crocodile park",
+        "entryAndLocalCost": 120
+      },
+      {
+        "spotName": "Thirumoorthy Hills Amanalingeswarar Temple & Dam Boating",
+        "timeSlot": "11:30 AM – 02:00 PM",
+        "activity": "Visit the boulder shrine of Brahma-Vishnu-Shiva and enjoy pedal boating on Thirumoorthy Reservoir",
+        "entryAndLocalCost": 140
+      },
+      {
+        "spotName": "Panchalinga Waterfalls (Thirumoorthy Hills Trek)",
+        "timeSlot": "02:30 PM – 05:30 PM",
+        "activity": "Scenic 3-km forest trail to the refreshing mountain waterfall cascading over Western Ghats rocks",
+        "entryAndLocalCost": 100
+      }
+    ]
+  }
+]

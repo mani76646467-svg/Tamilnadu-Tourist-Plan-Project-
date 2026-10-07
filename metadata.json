@@ -1,0 +1,6 @@
+{
+  "name": "TN Smart Tourist Planner",
+  "description": "Plan your perfect journey through temples, beaches, hill stations and heritage destinations in Tamil Nadu with our smart travel planner.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
